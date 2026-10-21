@@ -61,7 +61,14 @@ for operator, url in OPERATOR_URLS.items():
             sms = temizle(cols[3].get_text())
             fiyat_text = temizle(cols[4].get_text())
             fiyat = fiyati_al(fiyat_text)
-            if fiyat < 50 or 'faturasız' in isim.lower():
+          # SADECE FATURALI - faturasızları alma
+if 'faturasız' in isim.lower() or 'faturasiz' in isim.lower():
+    continue
+if fiyat < 50:
+    continue
+# Fırsat tarifeleri genelde faturasız oluyor, faturalı yazmıyorsa alma
+if 'fırsat' in isim.lower() and 'faturalı' not in isim.lower() and 'faturali' not in isim.lower():
+    continue
                 continue
             if 'faturalı' not in isim.lower() and 'faturalı' not in fiyat_text.lower():
                 # faturalı olmayanları atlama, ama faturasız yazanı atla
