@@ -1,68 +1,3174 @@
 {
-  "guncelleme": "21.10.2026 06:34",
+  "guncelleme": "21.10.2026 07:19",
+  "toplam_tarife": 176,
   "tarifeler": [
     {
-      "operator": "Vodafone",
-      "isim": "Red 20GB",
-      "fiyat": 385,
-      "internet": "20GB",
-      "dk": "1000",
-      "sms": "250",
-      "yas_grubu": "Herkes"
+      "operator": "【entity-Vodafone¦canonical_name=Vodafone】",
+      "isim": "İlk Hattım 5G Plus 5 GBFaturalı",
+      "fiyat": 300,
+      "fiyat_mnt": 270,
+      "fiyat_yeni_hat": 255,
+      "internet": "5GB",
+      "dk": "1.000DK",
+      "sms": "250SMS",
+      "yas_grubu": "Herkes",
+      "kategori": "Standart",
+      "yurtdisi": "0dk",
+      "populer": true,
+      "avantajlar": [
+        "5G Uyumlu"
+      ],
+      "taahhut": 12
     },
     {
       "operator": "【entity-Vodafone¦canonical_name=Vodafone】",
-      "isim": "FreeZone 20GB Genç",
+      "isim": "5G Plus 5 GBFaturalı",
+      "fiyat": 375,
+      "fiyat_mnt": 338,
+      "fiyat_yeni_hat": 319,
+      "internet": "5GB",
+      "dk": "1.000DK",
+      "sms": "250SMS",
+      "yas_grubu": "Herkes",
+      "kategori": "Standart",
+      "yurtdisi": "0dk",
+      "populer": false,
+      "avantajlar": [
+        "5G Uyumlu"
+      ],
+      "taahhut": 12
+    },
+    {
+      "operator": "【entity-Vodafone¦canonical_name=Vodafone】",
+      "isim": "5G Online Plus 5 GBFaturalı",
+      "fiyat": 315,
+      "fiyat_mnt": 284,
+      "fiyat_yeni_hat": 268,
+      "internet": "5GB",
+      "dk": "1.000DK",
+      "sms": "250SMS",
+      "yas_grubu": "Herkes",
+      "kategori": "Standart",
+      "yurtdisi": "0dk",
+      "populer": true,
+      "avantajlar": [
+        "5G Uyumlu"
+      ],
+      "taahhut": 12
+    },
+    {
+      "operator": "【entity-Vodafone¦canonical_name=Vodafone】",
+      "isim": "5G Plus Genç 5+5 GBFaturalı",
+      "fiyat": 380,
+      "fiyat_mnt": 342,
+      "fiyat_yeni_hat": 323,
+      "internet": "5GB",
+      "dk": "1.000DK",
+      "sms": "250SMS",
+      "yas_grubu": "Genç",
+      "kategori": "Genç",
+      "yurtdisi": "0dk",
+      "populer": false,
+      "avantajlar": [
+        "5G Uyumlu"
+      ],
+      "taahhut": 12
+    },
+    {
+      "operator": "【entity-Vodafone¦canonical_name=Vodafone】",
+      "isim": "İlk Hattım 5G Plus 10 GBFaturalı",
       "fiyat": 350,
-      "internet": "20GB",
-      "dk": "Sınırsız",
-      "sms": "Sınırsız",
-      "yas_grubu": "Genç"
+      "fiyat_mnt": 315,
+      "fiyat_yeni_hat": 298,
+      "internet": "10GB",
+      "dk": "1.000DK",
+      "sms": "250SMS",
+      "yas_grubu": "Herkes",
+      "kategori": "Standart",
+      "yurtdisi": "0dk",
+      "populer": false,
+      "avantajlar": [
+        "5G Uyumlu"
+      ],
+      "taahhut": 12
     },
     {
-      "operator": "Vodafone",
-      "isim": "Red 30GB 5G",
+      "operator": "【entity-Vodafone¦canonical_name=Vodafone】",
+      "isim": "5G Plus 10 GBFaturalı",
       "fiyat": 450,
-      "internet": "30GB",
-      "dk": "Sınırsız",
-      "sms": "Sınırsız",
-      "yas_grubu": "Herkes"
+      "fiyat_mnt": 405,
+      "fiyat_yeni_hat": 382,
+      "internet": "10GB",
+      "dk": "1.000DK",
+      "sms": "250SMS",
+      "yas_grubu": "Herkes",
+      "kategori": "Standart",
+      "yurtdisi": "0dk",
+      "populer": false,
+      "avantajlar": [
+        "5G Uyumlu"
+      ],
+      "taahhut": 12
     },
     {
-      "operator": "【entity-Turkcell¦canonical_name=Turkcell】",
-      "isim": "GNÇ 25GB",
-      "fiyat": 325,
-      "internet": "25GB",
-      "dk": "1000",
-      "sms": "1000",
-      "yas_grubu": "Genç"
+      "operator": "【entity-Vodafone¦canonical_name=Vodafone】",
+      "isim": "5G Online Plus 10 GBFaturalı",
+      "fiyat": 365,
+      "fiyat_mnt": 328,
+      "fiyat_yeni_hat": 310,
+      "internet": "10GB",
+      "dk": "1.000DK",
+      "sms": "250SMS",
+      "yas_grubu": "Herkes",
+      "kategori": "Standart",
+      "yurtdisi": "0dk",
+      "populer": false,
+      "avantajlar": [
+        "5G Uyumlu"
+      ],
+      "taahhut": 12
     },
     {
-      "operator": "【entity-Turkcell¦canonical_name=Turkcell】",
-      "isim": "Süper 25GB",
-      "fiyat": 410,
-      "internet": "25GB",
-      "dk": "1000",
-      "sms": "500",
-      "yas_grubu": "Herkes"
+      "operator": "【entity-Vodafone¦canonical_name=Vodafone】",
+      "isim": "5G Plus Genç 10+10 GBFaturalı",
+      "fiyat": 480,
+      "fiyat_mnt": 432,
+      "fiyat_yeni_hat": 408,
+      "internet": "10GB",
+      "dk": "1.000DK",
+      "sms": "250SMS",
+      "yas_grubu": "Genç",
+      "kategori": "Genç",
+      "yurtdisi": "0dk",
+      "populer": false,
+      "avantajlar": [
+        "5G Uyumlu"
+      ],
+      "taahhut": 12
     },
     {
-      "operator": "Turk Telekom",
-      "isim": "Prime Emekli 15GB",
-      "fiyat": 280,
-      "internet": "15GB",
-      "dk": "1000",
-      "sms": "250",
-      "yas_grubu": "50+"
-    },
-    {
-      "operator": "Turk Telekom",
-      "isim": "Prime 20GB",
-      "fiyat": 360,
+      "operator": "【entity-Vodafone¦canonical_name=Vodafone】",
+      "isim": "İlk Hattım 5G Plus 20 GBFaturalı",
+      "fiyat": 400,
+      "fiyat_mnt": 360,
+      "fiyat_yeni_hat": 340,
       "internet": "20GB",
-      "dk": "1000",
-      "sms": "250",
-      "yas_grubu": "Herkes"
+      "dk": "1.000DK",
+      "sms": "250SMS",
+      "yas_grubu": "Herkes",
+      "kategori": "Standart",
+      "yurtdisi": "0dk",
+      "populer": true,
+      "avantajlar": [
+        "5G Uyumlu"
+      ],
+      "taahhut": 12
+    },
+    {
+      "operator": "【entity-Vodafone¦canonical_name=Vodafone】",
+      "isim": "5G Plus 20 GBFaturalı",
+      "fiyat": 550,
+      "fiyat_mnt": 495,
+      "fiyat_yeni_hat": 468,
+      "internet": "20GB",
+      "dk": "1.000DK",
+      "sms": "250SMS",
+      "yas_grubu": "Herkes",
+      "kategori": "Standart",
+      "yurtdisi": "0dk",
+      "populer": true,
+      "avantajlar": [
+        "5G Uyumlu"
+      ],
+      "taahhut": 12
+    },
+    {
+      "operator": "【entity-Vodafone¦canonical_name=Vodafone】",
+      "isim": "5G Online Plus 20 GBFaturalı",
+      "fiyat": 465,
+      "fiyat_mnt": 418,
+      "fiyat_yeni_hat": 395,
+      "internet": "20GB",
+      "dk": "1.000DK",
+      "sms": "250SMS",
+      "yas_grubu": "Herkes",
+      "kategori": "Standart",
+      "yurtdisi": "0dk",
+      "populer": true,
+      "avantajlar": [
+        "5G Uyumlu"
+      ],
+      "taahhut": 12
+    },
+    {
+      "operator": "【entity-Vodafone¦canonical_name=Vodafone】",
+      "isim": "5G Plus Genç 20+20 GBFaturalı",
+      "fiyat": 680,
+      "fiyat_mnt": 612,
+      "fiyat_yeni_hat": 578,
+      "internet": "20GB",
+      "dk": "1.000DK",
+      "sms": "250SMS",
+      "yas_grubu": "Genç",
+      "kategori": "Genç",
+      "yurtdisi": "0dk",
+      "populer": true,
+      "avantajlar": [
+        "5G Uyumlu"
+      ],
+      "taahhut": 12
+    },
+    {
+      "operator": "【entity-Vodafone¦canonical_name=Vodafone】",
+      "isim": "5G Fırsat 25 GBFaturalı",
+      "fiyat": 300,
+      "fiyat_mnt": 270,
+      "fiyat_yeni_hat": 255,
+      "internet": "25GB",
+      "dk": "750DK",
+      "sms": "750SMS",
+      "yas_grubu": "Herkes",
+      "kategori": "Standart",
+      "yurtdisi": "0dk",
+      "populer": true,
+      "avantajlar": [
+        "5G Uyumlu"
+      ],
+      "taahhut": 12
+    },
+    {
+      "operator": "【entity-Vodafone¦canonical_name=Vodafone】",
+      "isim": "İlk Hattım 5G Plus 30 GBFaturalı",
+      "fiyat": 500,
+      "fiyat_mnt": 450,
+      "fiyat_yeni_hat": 425,
+      "internet": "30GB",
+      "dk": "1.000DK",
+      "sms": "250SMS",
+      "yas_grubu": "Herkes",
+      "kategori": "Standart",
+      "yurtdisi": "0dk",
+      "populer": false,
+      "avantajlar": [
+        "5G Uyumlu"
+      ],
+      "taahhut": 12
+    },
+    {
+      "operator": "【entity-Vodafone¦canonical_name=Vodafone】",
+      "isim": "5G Plus 30 GBFaturalı",
+      "fiyat": 650,
+      "fiyat_mnt": 585,
+      "fiyat_yeni_hat": 552,
+      "internet": "30GB",
+      "dk": "1.000DK",
+      "sms": "250SMS",
+      "yas_grubu": "Herkes",
+      "kategori": "Standart",
+      "yurtdisi": "0dk",
+      "populer": false,
+      "avantajlar": [
+        "5G Uyumlu"
+      ],
+      "taahhut": 12
+    },
+    {
+      "operator": "【entity-Vodafone¦canonical_name=Vodafone】",
+      "isim": "5G Online Plus 30 GBFaturalı",
+      "fiyat": 565,
+      "fiyat_mnt": 508,
+      "fiyat_yeni_hat": 480,
+      "internet": "30GB",
+      "dk": "1.000DK",
+      "sms": "250SMS",
+      "yas_grubu": "Herkes",
+      "kategori": "Standart",
+      "yurtdisi": "0dk",
+      "populer": false,
+      "avantajlar": [
+        "5G Uyumlu"
+      ],
+      "taahhut": 12
+    },
+    {
+      "operator": "【entity-Vodafone¦canonical_name=Vodafone】",
+      "isim": "5G Plus Genç 30+30 GBFaturalı",
+      "fiyat": 780,
+      "fiyat_mnt": 702,
+      "fiyat_yeni_hat": 663,
+      "internet": "30GB",
+      "dk": "1.000DK",
+      "sms": "250SMS",
+      "yas_grubu": "Genç",
+      "kategori": "Genç",
+      "yurtdisi": "0dk",
+      "populer": false,
+      "avantajlar": [
+        "5G Uyumlu"
+      ],
+      "taahhut": 12
+    },
+    {
+      "operator": "【entity-Vodafone¦canonical_name=Vodafone】",
+      "isim": "5G Red 40 GB Sınırsız SosyalFaturalı",
+      "fiyat": 900,
+      "fiyat_mnt": 810,
+      "fiyat_yeni_hat": 765,
+      "internet": "40GB",
+      "dk": "SınırsızDK",
+      "sms": "SınırsızSMS",
+      "yas_grubu": "Herkes",
+      "kategori": "Standart",
+      "yurtdisi": "0dk",
+      "populer": false,
+      "avantajlar": [
+        "5G Uyumlu"
+      ],
+      "taahhut": 12
+    },
+    {
+      "operator": "【entity-Vodafone¦canonical_name=Vodafone】",
+      "isim": "5G Genç Red 40+40 GB Sınırsız SosyalFatu",
+      "fiyat": 900,
+      "fiyat_mnt": 810,
+      "fiyat_yeni_hat": 765,
+      "internet": "40GB",
+      "dk": "SınırsızDK",
+      "sms": "SınırsızSMS",
+      "yas_grubu": "Genç",
+      "kategori": "Genç",
+      "yurtdisi": "0dk",
+      "populer": false,
+      "avantajlar": [
+        "5G Uyumlu"
+      ],
+      "taahhut": 12
+    },
+    {
+      "operator": "【entity-Vodafone¦canonical_name=Vodafone】",
+      "isim": "İlk Hattım 5G Plus 50 GBFaturalı",
+      "fiyat": 600,
+      "fiyat_mnt": 540,
+      "fiyat_yeni_hat": 510,
+      "internet": "50GB",
+      "dk": "1.000DK",
+      "sms": "250SMS",
+      "yas_grubu": "Herkes",
+      "kategori": "Standart",
+      "yurtdisi": "0dk",
+      "populer": false,
+      "avantajlar": [
+        "5G Uyumlu"
+      ],
+      "taahhut": 12
+    },
+    {
+      "operator": "【entity-Vodafone¦canonical_name=Vodafone】",
+      "isim": "5G Plus 50 GBFaturalı",
+      "fiyat": 800,
+      "fiyat_mnt": 720,
+      "fiyat_yeni_hat": 680,
+      "internet": "50GB",
+      "dk": "1.000DK",
+      "sms": "250SMS",
+      "yas_grubu": "Herkes",
+      "kategori": "Standart",
+      "yurtdisi": "0dk",
+      "populer": false,
+      "avantajlar": [
+        "5G Uyumlu"
+      ],
+      "taahhut": 12
+    },
+    {
+      "operator": "【entity-Vodafone¦canonical_name=Vodafone】",
+      "isim": "5G Online Plus 50 GBFaturalı",
+      "fiyat": 685,
+      "fiyat_mnt": 616,
+      "fiyat_yeni_hat": 582,
+      "internet": "50GB",
+      "dk": "1.000DK",
+      "sms": "250SMS",
+      "yas_grubu": "Herkes",
+      "kategori": "Standart",
+      "yurtdisi": "0dk",
+      "populer": false,
+      "avantajlar": [
+        "5G Uyumlu"
+      ],
+      "taahhut": 12
+    },
+    {
+      "operator": "【entity-Vodafone¦canonical_name=Vodafone】",
+      "isim": "5G Plus Genç 50+50 GBFaturalı",
+      "fiyat": 880,
+      "fiyat_mnt": 792,
+      "fiyat_yeni_hat": 748,
+      "internet": "50GB",
+      "dk": "1.000DK",
+      "sms": "250SMS",
+      "yas_grubu": "50+",
+      "kategori": "65+",
+      "yurtdisi": "0dk",
+      "populer": false,
+      "avantajlar": [
+        "5G Uyumlu"
+      ],
+      "taahhut": 12
+    },
+    {
+      "operator": "【entity-Vodafone¦canonical_name=Vodafone】",
+      "isim": "5G Red 60 GB Sınırsız EğlenceFaturalı",
+      "fiyat": 1000,
+      "fiyat_mnt": 900,
+      "fiyat_yeni_hat": 850,
+      "internet": "60GB",
+      "dk": "SınırsızDK",
+      "sms": "SınırsızSMS",
+      "yas_grubu": "Herkes",
+      "kategori": "Standart",
+      "yurtdisi": "0dk",
+      "populer": false,
+      "avantajlar": [
+        "5G Uyumlu"
+      ],
+      "taahhut": 12
+    },
+    {
+      "operator": "【entity-Vodafone¦canonical_name=Vodafone】",
+      "isim": "5G Genç Red 60+60 GB Sınırsız EğlenceFat",
+      "fiyat": 1000,
+      "fiyat_mnt": 900,
+      "fiyat_yeni_hat": 850,
+      "internet": "60GB",
+      "dk": "SınırsızDK",
+      "sms": "SınırsızSMS",
+      "yas_grubu": "Genç",
+      "kategori": "Genç",
+      "yurtdisi": "0dk",
+      "populer": false,
+      "avantajlar": [
+        "5G Uyumlu"
+      ],
+      "taahhut": 12
+    },
+    {
+      "operator": "【entity-Vodafone¦canonical_name=Vodafone】",
+      "isim": "5G Red 100 GB Sınırsız TikTokFaturalı",
+      "fiyat": 1200,
+      "fiyat_mnt": 1080,
+      "fiyat_yeni_hat": 1020,
+      "internet": "100GB",
+      "dk": "SınırsızDK",
+      "sms": "SınırsızSMS",
+      "yas_grubu": "Herkes",
+      "kategori": "Standart",
+      "yurtdisi": "0dk",
+      "populer": false,
+      "avantajlar": [
+        "5G Uyumlu"
+      ],
+      "taahhut": 12
+    },
+    {
+      "operator": "【entity-Turkcell¦canonical_name=Turkcell】",
+      "isim": "Prestij 3000 DKFaturalı",
+      "fiyat": 180,
+      "fiyat_mnt": 162,
+      "fiyat_yeni_hat": 153,
+      "internet": "100MB",
+      "dk": "3.000DK",
+      "sms": "250SMS",
+      "yas_grubu": "Herkes",
+      "kategori": "Standart",
+      "yurtdisi": "0dk",
+      "populer": true,
+      "avantajlar": [
+        "Prime"
+      ],
+      "taahhut": 12
+    },
+    {
+      "operator": "【entity-Turkcell¦canonical_name=Turkcell】",
+      "isim": "Star+ 1 GBFaturalı",
+      "fiyat": 400,
+      "fiyat_mnt": 360,
+      "fiyat_yeni_hat": 340,
+      "internet": "1GB",
+      "dk": "2.000DK",
+      "sms": "250SMS",
+      "yas_grubu": "Herkes",
+      "kategori": "Standart",
+      "yurtdisi": "0dk",
+      "populer": false,
+      "avantajlar": [
+        "Prime"
+      ],
+      "taahhut": 12
+    },
+    {
+      "operator": "【entity-Turkcell¦canonical_name=Turkcell】",
+      "isim": "Aynen Favorim 5 GBFaturalı",
+      "fiyat": 250,
+      "fiyat_mnt": 225,
+      "fiyat_yeni_hat": 212,
+      "internet": "5GB",
+      "dk": "1.000DK",
+      "sms": "250SMS",
+      "yas_grubu": "Herkes",
+      "kategori": "Standart",
+      "yurtdisi": "0dk",
+      "populer": true,
+      "avantajlar": [
+        "Prime"
+      ],
+      "taahhut": 12
+    },
+    {
+      "operator": "【entity-Turkcell¦canonical_name=Turkcell】",
+      "isim": "Esneyen PaketFaturalı",
+      "fiyat": 430,
+      "fiyat_mnt": 387,
+      "fiyat_yeni_hat": 366,
+      "internet": "5GB",
+      "dk": "1.500DK",
+      "sms": "250SMS",
+      "yas_grubu": "Herkes",
+      "kategori": "Standart",
+      "yurtdisi": "0dk",
+      "populer": false,
+      "avantajlar": [
+        "Prime"
+      ],
+      "taahhut": 12
+    },
+    {
+      "operator": "【entity-Turkcell¦canonical_name=Turkcell】",
+      "isim": "Prestij 5 GBFaturalı",
+      "fiyat": 308,
+      "fiyat_mnt": 277,
+      "fiyat_yeni_hat": 262,
+      "internet": "5GB",
+      "dk": "1.000DK",
+      "sms": "250SMS",
+      "yas_grubu": "Herkes",
+      "kategori": "Standart",
+      "yurtdisi": "0dk",
+      "populer": true,
+      "avantajlar": [
+        "Prime"
+      ],
+      "taahhut": 12
+    },
+    {
+      "operator": "【entity-Turkcell¦canonical_name=Turkcell】",
+      "isim": "Star+ 5 GBFaturalı",
+      "fiyat": 550,
+      "fiyat_mnt": 495,
+      "fiyat_yeni_hat": 468,
+      "internet": "5GB",
+      "dk": "1.000DK",
+      "sms": "250SMS",
+      "yas_grubu": "Herkes",
+      "kategori": "Standart",
+      "yurtdisi": "0dk",
+      "populer": false,
+      "avantajlar": [
+        "Prime"
+      ],
+      "taahhut": 12
+    },
+    {
+      "operator": "【entity-Turkcell¦canonical_name=Turkcell】",
+      "isim": "GNÇ Avantaj 5 + 5 GBFaturalı",
+      "fiyat": 280,
+      "fiyat_mnt": 252,
+      "fiyat_yeni_hat": 238,
+      "internet": "5GB",
+      "dk": "1.000DK",
+      "sms": "250SMS",
+      "yas_grubu": "Genç",
+      "kategori": "Genç",
+      "yurtdisi": "0dk",
+      "populer": true,
+      "avantajlar": [
+        "Prime"
+      ],
+      "taahhut": 12
+    },
+    {
+      "operator": "【entity-Turkcell¦canonical_name=Turkcell】",
+      "isim": "Yapboz Small",
+      "fiyat": 200,
+      "fiyat_mnt": 180,
+      "fiyat_yeni_hat": 170,
+      "internet": "8GB",
+      "dk": "500DK",
+      "sms": "0SMS",
+      "yas_grubu": "Herkes",
+      "kategori": "Standart",
+      "yurtdisi": "0dk",
+      "populer": true,
+      "avantajlar": [
+        "Prime"
+      ],
+      "taahhut": 12
+    },
+    {
+      "operator": "【entity-Turkcell¦canonical_name=Turkcell】",
+      "isim": "GNÇ+ 10 GBFaturalı",
+      "fiyat": 500,
+      "fiyat_mnt": 450,
+      "fiyat_yeni_hat": 425,
+      "internet": "10GB",
+      "dk": "1.000DK",
+      "sms": "300SMS",
+      "yas_grubu": "Genç",
+      "kategori": "Genç",
+      "yurtdisi": "0dk",
+      "populer": false,
+      "avantajlar": [
+        "Prime"
+      ],
+      "taahhut": 12
+    },
+    {
+      "operator": "【entity-Turkcell¦canonical_name=Turkcell】",
+      "isim": "Prestij 10 GBFaturalı",
+      "fiyat": 378,
+      "fiyat_mnt": 340,
+      "fiyat_yeni_hat": 321,
+      "internet": "10GB",
+      "dk": "1.000DK",
+      "sms": "250SMS",
+      "yas_grubu": "Herkes",
+      "kategori": "Standart",
+      "yurtdisi": "0dk",
+      "populer": false,
+      "avantajlar": [
+        "Prime"
+      ],
+      "taahhut": 12
+    },
+    {
+      "operator": "【entity-Turkcell¦canonical_name=Turkcell】",
+      "isim": "Cazip Fırsat 15 GBFaturalı",
+      "fiyat": 400,
+      "fiyat_mnt": 360,
+      "fiyat_yeni_hat": 340,
+      "internet": "10GB",
+      "dk": "1.000DK",
+      "sms": "100SMS",
+      "yas_grubu": "Herkes",
+      "kategori": "Standart",
+      "yurtdisi": "0dk",
+      "populer": false,
+      "avantajlar": [
+        "Prime"
+      ],
+      "taahhut": 12
+    },
+    {
+      "operator": "【entity-Turkcell¦canonical_name=Turkcell】",
+      "isim": "Star+ 10 GBFaturalı",
+      "fiyat": 650,
+      "fiyat_mnt": 585,
+      "fiyat_yeni_hat": 552,
+      "internet": "10GB",
+      "dk": "1.000DK",
+      "sms": "250SMS",
+      "yas_grubu": "Herkes",
+      "kategori": "Standart",
+      "yurtdisi": "0dk",
+      "populer": false,
+      "avantajlar": [
+        "Prime"
+      ],
+      "taahhut": 12
+    },
+    {
+      "operator": "【entity-Turkcell¦canonical_name=Turkcell】",
+      "isim": "GNÇ Avantaj 10 + 10 GBFaturalı",
+      "fiyat": 320,
+      "fiyat_mnt": 288,
+      "fiyat_yeni_hat": 272,
+      "internet": "10GB",
+      "dk": "1.000DK",
+      "sms": "250SMS",
+      "yas_grubu": "Genç",
+      "kategori": "Genç",
+      "yurtdisi": "0dk",
+      "populer": true,
+      "avantajlar": [
+        "Prime"
+      ],
+      "taahhut": 12
+    },
+    {
+      "operator": "【entity-Turkcell¦canonical_name=Turkcell】",
+      "isim": "Avantaj+ 10 GBFaturalı",
+      "fiyat": 350,
+      "fiyat_mnt": 315,
+      "fiyat_yeni_hat": 298,
+      "internet": "10GB",
+      "dk": "3.000DK",
+      "sms": "250SMS",
+      "yas_grubu": "Herkes",
+      "kategori": "Standart",
+      "yurtdisi": "0dk",
+      "populer": true,
+      "avantajlar": [
+        "Prime"
+      ],
+      "taahhut": 12
+    },
+    {
+      "operator": "【entity-Turkcell¦canonical_name=Turkcell】",
+      "isim": "Yapboz MediumFaturalı",
+      "fiyat": 260,
+      "fiyat_mnt": 234,
+      "fiyat_yeni_hat": 221,
+      "internet": "12GB",
+      "dk": "500DK",
+      "sms": "0SMS",
+      "yas_grubu": "Herkes",
+      "kategori": "Standart",
+      "yurtdisi": "0dk",
+      "populer": true,
+      "avantajlar": [
+        "Prime"
+      ],
+      "taahhut": 12
+    },
+    {
+      "operator": "【entity-Turkcell¦canonical_name=Turkcell】",
+      "isim": "Bol Star 15 GBFaturalı",
+      "fiyat": 378,
+      "fiyat_mnt": 340,
+      "fiyat_yeni_hat": 321,
+      "internet": "15GB",
+      "dk": "1.000DK",
+      "sms": "250SMS",
+      "yas_grubu": "Herkes",
+      "kategori": "Standart",
+      "yurtdisi": "0dk",
+      "populer": false,
+      "avantajlar": [
+        "Prime"
+      ],
+      "taahhut": 12
+    },
+    {
+      "operator": "【entity-Turkcell¦canonical_name=Turkcell】",
+      "isim": "Aynen Favorim 15 GBFaturalı",
+      "fiyat": 320,
+      "fiyat_mnt": 288,
+      "fiyat_yeni_hat": 272,
+      "internet": "15GB",
+      "dk": "1.000DK",
+      "sms": "250SMS",
+      "yas_grubu": "Herkes",
+      "kategori": "Standart",
+      "yurtdisi": "0dk",
+      "populer": true,
+      "avantajlar": [
+        "Prime"
+      ],
+      "taahhut": 12
+    },
+    {
+      "operator": "【entity-Turkcell¦canonical_name=Turkcell】",
+      "isim": "Star+ 15 GBFaturalı",
+      "fiyat": 750,
+      "fiyat_mnt": 675,
+      "fiyat_yeni_hat": 638,
+      "internet": "15GB",
+      "dk": "1.000DK",
+      "sms": "250SMS",
+      "yas_grubu": "Herkes",
+      "kategori": "Standart",
+      "yurtdisi": "0dk",
+      "populer": false,
+      "avantajlar": [
+        "Prime"
+      ],
+      "taahhut": 12
+    },
+    {
+      "operator": "【entity-Turkcell¦canonical_name=Turkcell】",
+      "isim": "Yapboz LargeFaturalı",
+      "fiyat": 340,
+      "fiyat_mnt": 306,
+      "fiyat_yeni_hat": 289,
+      "internet": "20GB",
+      "dk": "500DK",
+      "sms": "0SMS",
+      "yas_grubu": "Herkes",
+      "kategori": "Standart",
+      "yurtdisi": "0dk",
+      "populer": true,
+      "avantajlar": [
+        "Prime"
+      ],
+      "taahhut": 12
+    },
+    {
+      "operator": "【entity-Turkcell¦canonical_name=Turkcell】",
+      "isim": "Aynen Favorim 20 + 20 GBFaturalı",
+      "fiyat": 620,
+      "fiyat_mnt": 558,
+      "fiyat_yeni_hat": 527,
+      "internet": "20GB",
+      "dk": "2.000DK",
+      "sms": "250SMS",
+      "yas_grubu": "Herkes",
+      "kategori": "Standart",
+      "yurtdisi": "0dk",
+      "populer": true,
+      "avantajlar": [
+        "Prime"
+      ],
+      "taahhut": 12
+    },
+    {
+      "operator": "【entity-Turkcell¦canonical_name=Turkcell】",
+      "isim": "GNÇ+ 20 GBFaturalı",
+      "fiyat": 650,
+      "fiyat_mnt": 585,
+      "fiyat_yeni_hat": 552,
+      "internet": "20GB",
+      "dk": "1.000DK",
+      "sms": "300SMS",
+      "yas_grubu": "Genç",
+      "kategori": "Genç",
+      "yurtdisi": "0dk",
+      "populer": true,
+      "avantajlar": [
+        "Prime"
+      ],
+      "taahhut": 12
+    },
+    {
+      "operator": "【entity-Turkcell¦canonical_name=Turkcell】",
+      "isim": "Prestij 20 GBFaturalı",
+      "fiyat": 473,
+      "fiyat_mnt": 426,
+      "fiyat_yeni_hat": 402,
+      "internet": "20GB",
+      "dk": "1.000DK",
+      "sms": "250SMS",
+      "yas_grubu": "Herkes",
+      "kategori": "Standart",
+      "yurtdisi": "0dk",
+      "populer": true,
+      "avantajlar": [
+        "Prime"
+      ],
+      "taahhut": 12
+    },
+    {
+      "operator": "【entity-Turkcell¦canonical_name=Turkcell】",
+      "isim": "Star+ 20 GBFaturalı",
+      "fiyat": 900,
+      "fiyat_mnt": 810,
+      "fiyat_yeni_hat": 765,
+      "internet": "20GB",
+      "dk": "1.000DK",
+      "sms": "250SMS",
+      "yas_grubu": "Herkes",
+      "kategori": "Standart",
+      "yurtdisi": "0dk",
+      "populer": true,
+      "avantajlar": [
+        "Prime"
+      ],
+      "taahhut": 12
+    },
+    {
+      "operator": "【entity-Turkcell¦canonical_name=Turkcell】",
+      "isim": "GNÇ Avantaj 20 + 20 GBFaturalı",
+      "fiyat": 450,
+      "fiyat_mnt": 405,
+      "fiyat_yeni_hat": 382,
+      "internet": "20GB",
+      "dk": "1.000DK",
+      "sms": "250SMS",
+      "yas_grubu": "Genç",
+      "kategori": "Genç",
+      "yurtdisi": "0dk",
+      "populer": true,
+      "avantajlar": [
+        "Prime"
+      ],
+      "taahhut": 12
+    },
+    {
+      "operator": "【entity-Turkcell¦canonical_name=Turkcell】",
+      "isim": "Avantaj+ 20 GBFaturalı",
+      "fiyat": 400,
+      "fiyat_mnt": 360,
+      "fiyat_yeni_hat": 340,
+      "internet": "20GB",
+      "dk": "3.000DK",
+      "sms": "250SMS",
+      "yas_grubu": "Herkes",
+      "kategori": "Standart",
+      "yurtdisi": "0dk",
+      "populer": true,
+      "avantajlar": [
+        "Prime"
+      ],
+      "taahhut": 12
+    },
+    {
+      "operator": "【entity-Turkcell¦canonical_name=Turkcell】",
+      "isim": "Aynen Favorim 25 GBFaturalı",
+      "fiyat": 390,
+      "fiyat_mnt": 351,
+      "fiyat_yeni_hat": 332,
+      "internet": "25GB",
+      "dk": "1.000DK",
+      "sms": "250SMS",
+      "yas_grubu": "Herkes",
+      "kategori": "Standart",
+      "yurtdisi": "0dk",
+      "populer": false,
+      "avantajlar": [
+        "Prime"
+      ],
+      "taahhut": 12
+    },
+    {
+      "operator": "【entity-Turkcell¦canonical_name=Turkcell】",
+      "isim": "Platinum Aynen Favorim 30 + 30 GBFatural",
+      "fiyat": 750,
+      "fiyat_mnt": 675,
+      "fiyat_yeni_hat": 638,
+      "internet": "30GB",
+      "dk": "2.000DK",
+      "sms": "250SMS",
+      "yas_grubu": "Herkes",
+      "kategori": "Standart",
+      "yurtdisi": "0dk",
+      "populer": false,
+      "avantajlar": [
+        "Prime"
+      ],
+      "taahhut": 12
+    },
+    {
+      "operator": "【entity-Turkcell¦canonical_name=Turkcell】",
+      "isim": "Platinum Favorim 30 + 30 GBFaturalı",
+      "fiyat": 950,
+      "fiyat_mnt": 855,
+      "fiyat_yeni_hat": 808,
+      "internet": "30GB",
+      "dk": "2.000DK",
+      "sms": "250SMS",
+      "yas_grubu": "Herkes",
+      "kategori": "Standart",
+      "yurtdisi": "0dk",
+      "populer": false,
+      "avantajlar": [
+        "Prime"
+      ],
+      "taahhut": 12
+    },
+    {
+      "operator": "【entity-Turkcell¦canonical_name=Turkcell】",
+      "isim": "GNÇ+ 30 GBFaturalı",
+      "fiyat": 800,
+      "fiyat_mnt": 720,
+      "fiyat_yeni_hat": 680,
+      "internet": "30GB",
+      "dk": "1.000DK",
+      "sms": "300SMS",
+      "yas_grubu": "Genç",
+      "kategori": "Genç",
+      "yurtdisi": "0dk",
+      "populer": false,
+      "avantajlar": [
+        "Prime"
+      ],
+      "taahhut": 12
+    },
+    {
+      "operator": "【entity-Turkcell¦canonical_name=Turkcell】",
+      "isim": "Bol Star 30 GBFaturalı",
+      "fiyat": 473,
+      "fiyat_mnt": 426,
+      "fiyat_yeni_hat": 402,
+      "internet": "30GB",
+      "dk": "1.000DK",
+      "sms": "250SMS",
+      "yas_grubu": "Herkes",
+      "kategori": "Standart",
+      "yurtdisi": "0dk",
+      "populer": false,
+      "avantajlar": [
+        "Prime"
+      ],
+      "taahhut": 12
+    },
+    {
+      "operator": "【entity-Turkcell¦canonical_name=Turkcell】",
+      "isim": "Platinum Cazip Fırsat 30 GBFaturalı",
+      "fiyat": 500,
+      "fiyat_mnt": 450,
+      "fiyat_yeni_hat": 425,
+      "internet": "30GB",
+      "dk": "1.500DK",
+      "sms": "1.500SMS",
+      "yas_grubu": "Herkes",
+      "kategori": "Standart",
+      "yurtdisi": "0dk",
+      "populer": false,
+      "avantajlar": [
+        "Prime"
+      ],
+      "taahhut": 12
+    },
+    {
+      "operator": "【entity-Turkcell¦canonical_name=Turkcell】",
+      "isim": "Prestij 30 GBFaturalı",
+      "fiyat": 593,
+      "fiyat_mnt": 534,
+      "fiyat_yeni_hat": 504,
+      "internet": "30GB",
+      "dk": "1.000DK",
+      "sms": "250SMS",
+      "yas_grubu": "Herkes",
+      "kategori": "Standart",
+      "yurtdisi": "0dk",
+      "populer": false,
+      "avantajlar": [
+        "Prime"
+      ],
+      "taahhut": 12
+    },
+    {
+      "operator": "【entity-Turkcell¦canonical_name=Turkcell】",
+      "isim": "Star+ 30 GBFaturalı",
+      "fiyat": 1100,
+      "fiyat_mnt": 990,
+      "fiyat_yeni_hat": 935,
+      "internet": "30GB",
+      "dk": "2.000DK",
+      "sms": "500SMS",
+      "yas_grubu": "Herkes",
+      "kategori": "Standart",
+      "yurtdisi": "0dk",
+      "populer": false,
+      "avantajlar": [
+        "Prime"
+      ],
+      "taahhut": 12
+    },
+    {
+      "operator": "【entity-Turkcell¦canonical_name=Turkcell】",
+      "isim": "GNÇ Avantaj 30 + 30 GBFaturalı",
+      "fiyat": 550,
+      "fiyat_mnt": 495,
+      "fiyat_yeni_hat": 468,
+      "internet": "30GB",
+      "dk": "2.000DK",
+      "sms": "250SMS",
+      "yas_grubu": "Genç",
+      "kategori": "Genç",
+      "yurtdisi": "0dk",
+      "populer": true,
+      "avantajlar": [
+        "Prime"
+      ],
+      "taahhut": 12
+    },
+    {
+      "operator": "【entity-Turkcell¦canonical_name=Turkcell】",
+      "isim": "Avantaj+ 30 GBFaturalı",
+      "fiyat": 540,
+      "fiyat_mnt": 486,
+      "fiyat_yeni_hat": 459,
+      "internet": "30GB",
+      "dk": "3.000DK",
+      "sms": "250SMS",
+      "yas_grubu": "Herkes",
+      "kategori": "Standart",
+      "yurtdisi": "0dk",
+      "populer": true,
+      "avantajlar": [
+        "Prime"
+      ],
+      "taahhut": 12
+    },
+    {
+      "operator": "【entity-Turkcell¦canonical_name=Turkcell】",
+      "isim": "Platinum Favorim 40 + 40 GBFaturalı",
+      "fiyat": 1050,
+      "fiyat_mnt": 945,
+      "fiyat_yeni_hat": 892,
+      "internet": "40GB",
+      "dk": "2.000DK",
+      "sms": "250SMS",
+      "yas_grubu": "Herkes",
+      "kategori": "Standart",
+      "yurtdisi": "0dk",
+      "populer": false,
+      "avantajlar": [
+        "Prime"
+      ],
+      "taahhut": 12
+    },
+    {
+      "operator": "【entity-Turkcell¦canonical_name=Turkcell】",
+      "isim": "Prestij 40 GBFaturalı",
+      "fiyat": 703,
+      "fiyat_mnt": 633,
+      "fiyat_yeni_hat": 598,
+      "internet": "40GB",
+      "dk": "1.000DK",
+      "sms": "250SMS",
+      "yas_grubu": "Herkes",
+      "kategori": "Standart",
+      "yurtdisi": "0dk",
+      "populer": false,
+      "avantajlar": [
+        "Prime"
+      ],
+      "taahhut": 12
+    },
+    {
+      "operator": "【entity-Turkcell¦canonical_name=Turkcell】",
+      "isim": "Star+ 40 GBFaturalı",
+      "fiyat": 1200,
+      "fiyat_mnt": 1080,
+      "fiyat_yeni_hat": 1020,
+      "internet": "40GB",
+      "dk": "2.000DK",
+      "sms": "500SMS",
+      "yas_grubu": "Herkes",
+      "kategori": "Standart",
+      "yurtdisi": "0dk",
+      "populer": false,
+      "avantajlar": [
+        "Prime"
+      ],
+      "taahhut": 12
+    },
+    {
+      "operator": "【entity-Turkcell¦canonical_name=Turkcell】",
+      "isim": "GNÇ Avantaj 40 + 40 GBFaturalı",
+      "fiyat": 650,
+      "fiyat_mnt": 585,
+      "fiyat_yeni_hat": 552,
+      "internet": "40GB",
+      "dk": "2.000DK",
+      "sms": "250SMS",
+      "yas_grubu": "Genç",
+      "kategori": "Genç",
+      "yurtdisi": "0dk",
+      "populer": true,
+      "avantajlar": [
+        "Prime"
+      ],
+      "taahhut": 12
+    },
+    {
+      "operator": "【entity-Turkcell¦canonical_name=Turkcell】",
+      "isim": "GNÇ Platinum Favorim 50 + 100 GBFaturalı",
+      "fiyat": 1050,
+      "fiyat_mnt": 945,
+      "fiyat_yeni_hat": 892,
+      "internet": "50GB",
+      "dk": "2.000DK",
+      "sms": "250SMS",
+      "yas_grubu": "Genç",
+      "kategori": "Genç",
+      "yurtdisi": "0dk",
+      "populer": false,
+      "avantajlar": [
+        "Prime"
+      ],
+      "taahhut": 12
+    },
+    {
+      "operator": "【entity-Turkcell¦canonical_name=Turkcell】",
+      "isim": "GNÇ+ 50 GBFaturalı",
+      "fiyat": 1050,
+      "fiyat_mnt": 945,
+      "fiyat_yeni_hat": 892,
+      "internet": "50GB",
+      "dk": "1.000DK",
+      "sms": "300SMS",
+      "yas_grubu": "Genç",
+      "kategori": "Genç",
+      "yurtdisi": "0dk",
+      "populer": false,
+      "avantajlar": [
+        "Prime"
+      ],
+      "taahhut": 12
+    },
+    {
+      "operator": "【entity-Turkcell¦canonical_name=Turkcell】",
+      "isim": "Platinum Bol Star 50 GBFaturalı",
+      "fiyat": 573,
+      "fiyat_mnt": 516,
+      "fiyat_yeni_hat": 487,
+      "internet": "50GB",
+      "dk": "1.000DK",
+      "sms": "250SMS",
+      "yas_grubu": "Herkes",
+      "kategori": "Standart",
+      "yurtdisi": "0dk",
+      "populer": false,
+      "avantajlar": [
+        "Prime"
+      ],
+      "taahhut": 12
+    },
+    {
+      "operator": "【entity-Turkcell¦canonical_name=Turkcell】",
+      "isim": "Platinum Avantaj+ 50 GBFaturalı",
+      "fiyat": 790,
+      "fiyat_mnt": 711,
+      "fiyat_yeni_hat": 672,
+      "internet": "50GB",
+      "dk": "3.000DK",
+      "sms": "250SMS",
+      "yas_grubu": "Herkes",
+      "kategori": "Standart",
+      "yurtdisi": "0dk",
+      "populer": true,
+      "avantajlar": [
+        "Prime"
+      ],
+      "taahhut": 12
+    },
+    {
+      "operator": "【entity-Turkcell¦canonical_name=Turkcell】",
+      "isim": "Platinum Prestij 60 GBFaturalı",
+      "fiyat": 823,
+      "fiyat_mnt": 741,
+      "fiyat_yeni_hat": 700,
+      "internet": "60GB",
+      "dk": "1.000DK",
+      "sms": "250SMS",
+      "yas_grubu": "Herkes",
+      "kategori": "Standart",
+      "yurtdisi": "0dk",
+      "populer": false,
+      "avantajlar": [
+        "Prime"
+      ],
+      "taahhut": 12
+    },
+    {
+      "operator": "【entity-Turkcell¦canonical_name=Turkcell】",
+      "isim": "Platinum+ 60 GBFaturalı",
+      "fiyat": 1400,
+      "fiyat_mnt": 1260,
+      "fiyat_yeni_hat": 1190,
+      "internet": "60GB",
+      "dk": "3.000DK",
+      "sms": "1.000SMS",
+      "yas_grubu": "Herkes",
+      "kategori": "Standart",
+      "yurtdisi": "0dk",
+      "populer": false,
+      "avantajlar": [
+        "Prime"
+      ],
+      "taahhut": 12
+    },
+    {
+      "operator": "【entity-Turkcell¦canonical_name=Turkcell】",
+      "isim": "Platinum Prestij 80 GBFaturalı",
+      "fiyat": 873,
+      "fiyat_mnt": 786,
+      "fiyat_yeni_hat": 742,
+      "internet": "80GB",
+      "dk": "1.000DK",
+      "sms": "250SMS",
+      "yas_grubu": "Herkes",
+      "kategori": "Standart",
+      "yurtdisi": "0dk",
+      "populer": false,
+      "avantajlar": [
+        "Prime"
+      ],
+      "taahhut": 12
+    },
+    {
+      "operator": "【entity-Turkcell¦canonical_name=Turkcell】",
+      "isim": "Platinum+ Black 120 GBFaturalı",
+      "fiyat": 2000,
+      "fiyat_mnt": 1800,
+      "fiyat_yeni_hat": 1700,
+      "internet": "120GB",
+      "dk": "3.000DK",
+      "sms": "1.000SMS",
+      "yas_grubu": "Herkes",
+      "kategori": "Standart",
+      "yurtdisi": "0dk",
+      "populer": true,
+      "avantajlar": [
+        "Prime"
+      ],
+      "taahhut": 12
+    },
+    {
+      "operator": "【entity-Turkcell¦canonical_name=Turkcell】",
+      "isim": "Yıllık - Dev Star 120 GBFaturalı",
+      "fiyat": 520,
+      "fiyat_mnt": 468,
+      "fiyat_yeni_hat": 442,
+      "internet": "120GB",
+      "dk": "12.000DK",
+      "sms": "6.000SMS",
+      "yas_grubu": "Herkes",
+      "kategori": "Standart",
+      "yurtdisi": "0dk",
+      "populer": true,
+      "avantajlar": [
+        "Prime"
+      ],
+      "taahhut": 12
+    },
+    {
+      "operator": "【entity-Turkcell¦canonical_name=Turkcell】",
+      "isim": "Platinum+ Black 160 GBFaturalı",
+      "fiyat": 2300,
+      "fiyat_mnt": 2070,
+      "fiyat_yeni_hat": 1955,
+      "internet": "160GB",
+      "dk": "3.000DK",
+      "sms": "1.000SMS",
+      "yas_grubu": "Herkes",
+      "kategori": "Standart",
+      "yurtdisi": "0dk",
+      "populer": false,
+      "avantajlar": [
+        "Prime"
+      ],
+      "taahhut": 12
+    },
+    {
+      "operator": "【entity-Turkcell¦canonical_name=Turkcell】",
+      "isim": "Platinum+ Black 200 GBFaturalı",
+      "fiyat": 2600,
+      "fiyat_mnt": 2340,
+      "fiyat_yeni_hat": 2210,
+      "internet": "200GB",
+      "dk": "3.000DK",
+      "sms": "1.000SMS",
+      "yas_grubu": "Herkes",
+      "kategori": "Standart",
+      "yurtdisi": "0dk",
+      "populer": true,
+      "avantajlar": [
+        "Prime"
+      ],
+      "taahhut": 12
+    },
+    {
+      "operator": "【entity-Turkcell¦canonical_name=Turkcell】",
+      "isim": "Yıllık - Dev Platinum Star 240 GBFatural",
+      "fiyat": 680,
+      "fiyat_mnt": 612,
+      "fiyat_yeni_hat": 578,
+      "internet": "240GB",
+      "dk": "24.000DK",
+      "sms": "6.000SMS",
+      "yas_grubu": "Herkes",
+      "kategori": "Standart",
+      "yurtdisi": "0dk",
+      "populer": false,
+      "avantajlar": [
+        "Prime"
+      ],
+      "taahhut": 12
+    },
+    {
+      "operator": "【entity-Turkcell¦canonical_name=Turkcell】",
+      "isim": "Yıllık - Dev Platinum Star 480 GBFatural",
+      "fiyat": 960,
+      "fiyat_mnt": 864,
+      "fiyat_yeni_hat": 816,
+      "internet": "480GB",
+      "dk": "24.000DK",
+      "sms": "6.000SMS",
+      "yas_grubu": "Herkes",
+      "kategori": "Standart",
+      "yurtdisi": "0dk",
+      "populer": false,
+      "avantajlar": [
+        "Prime"
+      ],
+      "taahhut": 12
+    },
+    {
+      "operator": "【entity-Türk Telekom¦canonical_name=Türk Telekom】",
+      "isim": "Yeni Ezber Bozan 3000Faturalı",
+      "fiyat": 300,
+      "fiyat_mnt": 270,
+      "fiyat_yeni_hat": 255,
+      "internet": "İnterneti Sen Belirle",
+      "dk": "3.000DK",
+      "sms": "250SMS",
+      "yas_grubu": "Herkes",
+      "kategori": "Standart",
+      "yurtdisi": "0dk",
+      "populer": true,
+      "avantajlar": [
+        "Prime"
+      ],
+      "taahhut": 12
+    },
+    {
+      "operator": "【entity-Türk Telekom¦canonical_name=Türk Telekom】",
+      "isim": "Yeni Ezber Bozan 1500Faturalı",
+      "fiyat": 285,
+      "fiyat_mnt": 256,
+      "fiyat_yeni_hat": 242,
+      "internet": "İnterneti Sen Belirle",
+      "dk": "1.500DK",
+      "sms": "250SMS",
+      "yas_grubu": "Herkes",
+      "kategori": "Standart",
+      "yurtdisi": "0dk",
+      "populer": true,
+      "avantajlar": [
+        "Prime"
+      ],
+      "taahhut": 12
+    },
+    {
+      "operator": "【entity-Türk Telekom¦canonical_name=Türk Telekom】",
+      "isim": "Yeni Ezber Bozan 500Faturalı",
+      "fiyat": 265,
+      "fiyat_mnt": 238,
+      "fiyat_yeni_hat": 225,
+      "internet": "İnterneti Sen Belirle",
+      "dk": "500DK",
+      "sms": "500SMS",
+      "yas_grubu": "Herkes",
+      "kategori": "Standart",
+      "yurtdisi": "0dk",
+      "populer": true,
+      "avantajlar": [
+        "Prime"
+      ],
+      "taahhut": 12
+    },
+    {
+      "operator": "【entity-Türk Telekom¦canonical_name=Türk Telekom】",
+      "isim": "Yeni Ezber Bozan 1000Faturalı",
+      "fiyat": 275,
+      "fiyat_mnt": 248,
+      "fiyat_yeni_hat": 234,
+      "internet": "100MB",
+      "dk": "1.000DK",
+      "sms": "250SMS",
+      "yas_grubu": "Herkes",
+      "kategori": "Standart",
+      "yurtdisi": "0dk",
+      "populer": true,
+      "avantajlar": [
+        "Prime"
+      ],
+      "taahhut": 12
+    },
+    {
+      "operator": "【entity-Türk Telekom¦canonical_name=Türk Telekom】",
+      "isim": "Yeni Uğurlu 1 GBFaturalı",
+      "fiyat": 255,
+      "fiyat_mnt": 230,
+      "fiyat_yeni_hat": 217,
+      "internet": "1GB",
+      "dk": "1.000DK",
+      "sms": "250SMS",
+      "yas_grubu": "Herkes",
+      "kategori": "Standart",
+      "yurtdisi": "0dk",
+      "populer": true,
+      "avantajlar": [
+        "Prime"
+      ],
+      "taahhut": 12
+    },
+    {
+      "operator": "【entity-Türk Telekom¦canonical_name=Türk Telekom】",
+      "isim": "Yeni Uğurlu 1 GBFaturalı",
+      "fiyat": 350,
+      "fiyat_mnt": 315,
+      "fiyat_yeni_hat": 298,
+      "internet": "1GB",
+      "dk": "1.000DK",
+      "sms": "250SMS",
+      "yas_grubu": "Herkes",
+      "kategori": "Standart",
+      "yurtdisi": "0dk",
+      "populer": false,
+      "avantajlar": [
+        "Prime"
+      ],
+      "taahhut": 12
+    },
+    {
+      "operator": "【entity-Türk Telekom¦canonical_name=Türk Telekom】",
+      "isim": "Mobil Dijital 2 + 2 GBFaturalı",
+      "fiyat": 255,
+      "fiyat_mnt": 230,
+      "fiyat_yeni_hat": 217,
+      "internet": "2GB",
+      "dk": "1.000DK",
+      "sms": "250SMS",
+      "yas_grubu": "Herkes",
+      "kategori": "Standart",
+      "yurtdisi": "0dk",
+      "populer": true,
+      "avantajlar": [
+        "Prime"
+      ],
+      "taahhut": 12
+    },
+    {
+      "operator": "【entity-Türk Telekom¦canonical_name=Türk Telekom】",
+      "isim": "Hep HİT 2 GBFaturalı",
+      "fiyat": 140,
+      "fiyat_mnt": 126,
+      "fiyat_yeni_hat": 119,
+      "internet": "2GB",
+      "dk": "500DK",
+      "sms": "500SMS",
+      "yas_grubu": "Herkes",
+      "kategori": "Standart",
+      "yurtdisi": "0dk",
+      "populer": true,
+      "avantajlar": [
+        "Prime"
+      ],
+      "taahhut": 12
+    },
+    {
+      "operator": "【entity-Türk Telekom¦canonical_name=Türk Telekom】",
+      "isim": "Hafta Sonu HİT 2 GBFaturalı",
+      "fiyat": 140,
+      "fiyat_mnt": 126,
+      "fiyat_yeni_hat": 119,
+      "internet": "2GB",
+      "dk": "500DK",
+      "sms": "500SMS",
+      "yas_grubu": "Herkes",
+      "kategori": "Standart",
+      "yurtdisi": "0dk",
+      "populer": true,
+      "avantajlar": [
+        "Prime"
+      ],
+      "taahhut": 12
+    },
+    {
+      "operator": "【entity-Türk Telekom¦canonical_name=Türk Telekom】",
+      "isim": "Okulda HİT Yeni 2 GBFaturalı",
+      "fiyat": 140,
+      "fiyat_mnt": 126,
+      "fiyat_yeni_hat": 119,
+      "internet": "2GB",
+      "dk": "500DK",
+      "sms": "500SMS",
+      "yas_grubu": "Herkes",
+      "kategori": "Standart",
+      "yurtdisi": "0dk",
+      "populer": true,
+      "avantajlar": [
+        "Prime"
+      ],
+      "taahhut": 12
+    },
+    {
+      "operator": "【entity-Türk Telekom¦canonical_name=Türk Telekom】",
+      "isim": "Hep HİT 2 GBFaturalı",
+      "fiyat": 185,
+      "fiyat_mnt": 166,
+      "fiyat_yeni_hat": 157,
+      "internet": "2GB",
+      "dk": "500DK",
+      "sms": "500SMS",
+      "yas_grubu": "Herkes",
+      "kategori": "Standart",
+      "yurtdisi": "0dk",
+      "populer": true,
+      "avantajlar": [
+        "Prime"
+      ],
+      "taahhut": 12
+    },
+    {
+      "operator": "【entity-Türk Telekom¦canonical_name=Türk Telekom】",
+      "isim": "Hafta Sonu HİT 2 GBFaturalı",
+      "fiyat": 185,
+      "fiyat_mnt": 166,
+      "fiyat_yeni_hat": 157,
+      "internet": "2GB",
+      "dk": "500DK",
+      "sms": "500SMS",
+      "yas_grubu": "Herkes",
+      "kategori": "Standart",
+      "yurtdisi": "0dk",
+      "populer": true,
+      "avantajlar": [
+        "Prime"
+      ],
+      "taahhut": 12
+    },
+    {
+      "operator": "【entity-Türk Telekom¦canonical_name=Türk Telekom】",
+      "isim": "Okulda HİT 2 GBFaturalı",
+      "fiyat": 185,
+      "fiyat_mnt": 166,
+      "fiyat_yeni_hat": 157,
+      "internet": "2GB",
+      "dk": "500DK",
+      "sms": "500SMS",
+      "yas_grubu": "Herkes",
+      "kategori": "Standart",
+      "yurtdisi": "0dk",
+      "populer": true,
+      "avantajlar": [
+        "Prime"
+      ],
+      "taahhut": 12
+    },
+    {
+      "operator": "【entity-Türk Telekom¦canonical_name=Türk Telekom】",
+      "isim": "Yeni Uğurlu 3 GBFaturalı",
+      "fiyat": 295,
+      "fiyat_mnt": 266,
+      "fiyat_yeni_hat": 251,
+      "internet": "3GB",
+      "dk": "1.000DK",
+      "sms": "250SMS",
+      "yas_grubu": "Herkes",
+      "kategori": "Standart",
+      "yurtdisi": "0dk",
+      "populer": true,
+      "avantajlar": [
+        "Prime"
+      ],
+      "taahhut": 12
+    },
+    {
+      "operator": "【entity-Türk Telekom¦canonical_name=Türk Telekom】",
+      "isim": "Yeni Uğurlu 3 GBFaturalı",
+      "fiyat": 385,
+      "fiyat_mnt": 346,
+      "fiyat_yeni_hat": 327,
+      "internet": "3GB",
+      "dk": "1.000DK",
+      "sms": "250SMS",
+      "yas_grubu": "Herkes",
+      "kategori": "Standart",
+      "yurtdisi": "0dk",
+      "populer": false,
+      "avantajlar": [
+        "Prime"
+      ],
+      "taahhut": 12
+    },
+    {
+      "operator": "【entity-Türk Telekom¦canonical_name=Türk Telekom】",
+      "isim": "Mobil Dijital 5 + 2 GBFaturalı",
+      "fiyat": 285,
+      "fiyat_mnt": 256,
+      "fiyat_yeni_hat": 242,
+      "internet": "5GB",
+      "dk": "1.000DK",
+      "sms": "250SMS",
+      "yas_grubu": "Herkes",
+      "kategori": "Standart",
+      "yurtdisi": "0dk",
+      "populer": true,
+      "avantajlar": [
+        "Prime"
+      ],
+      "taahhut": 12
+    },
+    {
+      "operator": "【entity-Türk Telekom¦canonical_name=Türk Telekom】",
+      "isim": "Hep HİT 5 + 5 GBFaturalı",
+      "fiyat": 190,
+      "fiyat_mnt": 171,
+      "fiyat_yeni_hat": 162,
+      "internet": "5GB",
+      "dk": "500DK",
+      "sms": "500SMS",
+      "yas_grubu": "Herkes",
+      "kategori": "Standart",
+      "yurtdisi": "0dk",
+      "populer": true,
+      "avantajlar": [
+        "Prime"
+      ],
+      "taahhut": 12
+    },
+    {
+      "operator": "【entity-Türk Telekom¦canonical_name=Türk Telekom】",
+      "isim": "Hafta Sonu HİT Yeni 5 + 5 GBFaturalı",
+      "fiyat": 190,
+      "fiyat_mnt": 171,
+      "fiyat_yeni_hat": 162,
+      "internet": "5GB",
+      "dk": "500DK",
+      "sms": "500SMS",
+      "yas_grubu": "Herkes",
+      "kategori": "Standart",
+      "yurtdisi": "0dk",
+      "populer": true,
+      "avantajlar": [
+        "Prime"
+      ],
+      "taahhut": 12
+    },
+    {
+      "operator": "【entity-Türk Telekom¦canonical_name=Türk Telekom】",
+      "isim": "Okulda HİT 5 + 5 GBFaturalı",
+      "fiyat": 190,
+      "fiyat_mnt": 171,
+      "fiyat_yeni_hat": 162,
+      "internet": "5GB",
+      "dk": "500DK",
+      "sms": "500SMS",
+      "yas_grubu": "Herkes",
+      "kategori": "Standart",
+      "yurtdisi": "0dk",
+      "populer": true,
+      "avantajlar": [
+        "Prime"
+      ],
+      "taahhut": 12
+    },
+    {
+      "operator": "【entity-Türk Telekom¦canonical_name=Türk Telekom】",
+      "isim": "Selfy 5 + 5 GBFaturalı",
+      "fiyat": 210,
+      "fiyat_mnt": 189,
+      "fiyat_yeni_hat": 178,
+      "internet": "5GB",
+      "dk": "750DK",
+      "sms": "250SMS",
+      "yas_grubu": "Genç",
+      "kategori": "Genç",
+      "yurtdisi": "0dk",
+      "populer": true,
+      "avantajlar": [
+        "Prime"
+      ],
+      "taahhut": 12
+    },
+    {
+      "operator": "【entity-Türk Telekom¦canonical_name=Türk Telekom】",
+      "isim": "Yeni Selfy 5 + 5 GBFaturalı",
+      "fiyat": 285,
+      "fiyat_mnt": 256,
+      "fiyat_yeni_hat": 242,
+      "internet": "5GB",
+      "dk": "1.000DK",
+      "sms": "250SMS",
+      "yas_grubu": "Genç",
+      "kategori": "Genç",
+      "yurtdisi": "0dk",
+      "populer": true,
+      "avantajlar": [
+        "Prime"
+      ],
+      "taahhut": 12
+    },
+    {
+      "operator": "【entity-Türk Telekom¦canonical_name=Türk Telekom】",
+      "isim": "Gel Tanışalım 5 GBFaturalı",
+      "fiyat": 280,
+      "fiyat_mnt": 252,
+      "fiyat_yeni_hat": 238,
+      "internet": "5GB",
+      "dk": "1.000DK",
+      "sms": "250SMS",
+      "yas_grubu": "Herkes",
+      "kategori": "Standart",
+      "yurtdisi": "0dk",
+      "populer": true,
+      "avantajlar": [
+        "Prime"
+      ],
+      "taahhut": 12
+    },
+    {
+      "operator": "【entity-Türk Telekom¦canonical_name=Türk Telekom】",
+      "isim": "Hep HİT Yeni 5 + 5 GBFaturalı",
+      "fiyat": 235,
+      "fiyat_mnt": 212,
+      "fiyat_yeni_hat": 200,
+      "internet": "5GB",
+      "dk": "500DK",
+      "sms": "500SMS",
+      "yas_grubu": "Herkes",
+      "kategori": "Standart",
+      "yurtdisi": "0dk",
+      "populer": true,
+      "avantajlar": [
+        "Prime"
+      ],
+      "taahhut": 12
+    },
+    {
+      "operator": "【entity-Türk Telekom¦canonical_name=Türk Telekom】",
+      "isim": "Hafta Sonu HİT Yeni 5 + 5 GBFaturalı",
+      "fiyat": 235,
+      "fiyat_mnt": 212,
+      "fiyat_yeni_hat": 200,
+      "internet": "5GB",
+      "dk": "500DK",
+      "sms": "500SMS",
+      "yas_grubu": "Herkes",
+      "kategori": "Standart",
+      "yurtdisi": "0dk",
+      "populer": true,
+      "avantajlar": [
+        "Prime"
+      ],
+      "taahhut": 12
+    },
+    {
+      "operator": "【entity-Türk Telekom¦canonical_name=Türk Telekom】",
+      "isim": "Okulda HİT 5 + 5 GBFaturalı",
+      "fiyat": 235,
+      "fiyat_mnt": 212,
+      "fiyat_yeni_hat": 200,
+      "internet": "5GB",
+      "dk": "500DK",
+      "sms": "500SMS",
+      "yas_grubu": "Herkes",
+      "kategori": "Standart",
+      "yurtdisi": "0dk",
+      "populer": true,
+      "avantajlar": [
+        "Prime"
+      ],
+      "taahhut": 12
+    },
+    {
+      "operator": "【entity-Türk Telekom¦canonical_name=Türk Telekom】",
+      "isim": "Yeni Selfy 5 + 5 GBFaturalı",
+      "fiyat": 425,
+      "fiyat_mnt": 382,
+      "fiyat_yeni_hat": 361,
+      "internet": "5GB",
+      "dk": "1.000DK",
+      "sms": "250SMS",
+      "yas_grubu": "Genç",
+      "kategori": "Genç",
+      "yurtdisi": "0dk",
+      "populer": false,
+      "avantajlar": [
+        "Prime"
+      ],
+      "taahhut": 12
+    },
+    {
+      "operator": "【entity-Türk Telekom¦canonical_name=Türk Telekom】",
+      "isim": "Yeni Uğurlu 6 GBFaturalı",
+      "fiyat": 420,
+      "fiyat_mnt": 378,
+      "fiyat_yeni_hat": 357,
+      "internet": "6GB",
+      "dk": "1.000DK",
+      "sms": "250SMS",
+      "yas_grubu": "Herkes",
+      "kategori": "Standart",
+      "yurtdisi": "0dk",
+      "populer": false,
+      "avantajlar": [
+        "Prime"
+      ],
+      "taahhut": 12
+    },
+    {
+      "operator": "【entity-Türk Telekom¦canonical_name=Türk Telekom】",
+      "isim": "Mobil Dijital 10 + 2 GBFaturalı",
+      "fiyat": 345,
+      "fiyat_mnt": 310,
+      "fiyat_yeni_hat": 293,
+      "internet": "10GB",
+      "dk": "1.000DK",
+      "sms": "250SMS",
+      "yas_grubu": "Herkes",
+      "kategori": "Standart",
+      "yurtdisi": "0dk",
+      "populer": true,
+      "avantajlar": [
+        "Prime"
+      ],
+      "taahhut": 12
+    },
+    {
+      "operator": "【entity-Türk Telekom¦canonical_name=Türk Telekom】",
+      "isim": "Hep HİT 10 + 5 GBFaturalı",
+      "fiyat": 230,
+      "fiyat_mnt": 207,
+      "fiyat_yeni_hat": 196,
+      "internet": "10GB",
+      "dk": "500DK",
+      "sms": "500SMS",
+      "yas_grubu": "Herkes",
+      "kategori": "Standart",
+      "yurtdisi": "0dk",
+      "populer": true,
+      "avantajlar": [
+        "Prime"
+      ],
+      "taahhut": 12
+    },
+    {
+      "operator": "【entity-Türk Telekom¦canonical_name=Türk Telekom】",
+      "isim": "Hafta Sonu HİT Yeni 10 + 5 GBFaturalı",
+      "fiyat": 230,
+      "fiyat_mnt": 207,
+      "fiyat_yeni_hat": 196,
+      "internet": "10GB",
+      "dk": "500DK",
+      "sms": "500SMS",
+      "yas_grubu": "Herkes",
+      "kategori": "Standart",
+      "yurtdisi": "0dk",
+      "populer": true,
+      "avantajlar": [
+        "Prime"
+      ],
+      "taahhut": 12
+    },
+    {
+      "operator": "【entity-Türk Telekom¦canonical_name=Türk Telekom】",
+      "isim": "Okulda HİT 10 + 5 GBFaturalı",
+      "fiyat": 230,
+      "fiyat_mnt": 207,
+      "fiyat_yeni_hat": 196,
+      "internet": "10GB",
+      "dk": "500DK",
+      "sms": "500SMS",
+      "yas_grubu": "Herkes",
+      "kategori": "Standart",
+      "yurtdisi": "0dk",
+      "populer": true,
+      "avantajlar": [
+        "Prime"
+      ],
+      "taahhut": 12
+    },
+    {
+      "operator": "【entity-Türk Telekom¦canonical_name=Türk Telekom】",
+      "isim": "Selfy 10 + 10 GBFaturalı",
+      "fiyat": 280,
+      "fiyat_mnt": 252,
+      "fiyat_yeni_hat": 238,
+      "internet": "10GB",
+      "dk": "750DK",
+      "sms": "250SMS",
+      "yas_grubu": "Genç",
+      "kategori": "Genç",
+      "yurtdisi": "0dk",
+      "populer": true,
+      "avantajlar": [
+        "Prime"
+      ],
+      "taahhut": 12
+    },
+    {
+      "operator": "【entity-Türk Telekom¦canonical_name=Türk Telekom】",
+      "isim": "Yeni Selfy 10 + 10 GBFaturalı",
+      "fiyat": 365,
+      "fiyat_mnt": 328,
+      "fiyat_yeni_hat": 310,
+      "internet": "10GB",
+      "dk": "1.000DK",
+      "sms": "250SMS",
+      "yas_grubu": "Genç",
+      "kategori": "Genç",
+      "yurtdisi": "0dk",
+      "populer": false,
+      "avantajlar": [
+        "Prime"
+      ],
+      "taahhut": 12
+    },
+    {
+      "operator": "【entity-Türk Telekom¦canonical_name=Türk Telekom】",
+      "isim": "Gel Tanışalım 10 GBFaturalı",
+      "fiyat": 335,
+      "fiyat_mnt": 302,
+      "fiyat_yeni_hat": 285,
+      "internet": "10GB",
+      "dk": "1.000DK",
+      "sms": "250SMS",
+      "yas_grubu": "Herkes",
+      "kategori": "Standart",
+      "yurtdisi": "0dk",
+      "populer": true,
+      "avantajlar": [
+        "Prime"
+      ],
+      "taahhut": 12
+    },
+    {
+      "operator": "【entity-Türk Telekom¦canonical_name=Türk Telekom】",
+      "isim": "Yeni Uğurlu 10 GBFaturalı",
+      "fiyat": 385,
+      "fiyat_mnt": 346,
+      "fiyat_yeni_hat": 327,
+      "internet": "10GB",
+      "dk": "1.000DK",
+      "sms": "250SMS",
+      "yas_grubu": "Herkes",
+      "kategori": "Standart",
+      "yurtdisi": "0dk",
+      "populer": false,
+      "avantajlar": [
+        "Prime"
+      ],
+      "taahhut": 12
+    },
+    {
+      "operator": "【entity-Türk Telekom¦canonical_name=Türk Telekom】",
+      "isim": "Hep HİT 10 + 5 GBFaturalı",
+      "fiyat": 280,
+      "fiyat_mnt": 252,
+      "fiyat_yeni_hat": 238,
+      "internet": "10GB",
+      "dk": "500DK",
+      "sms": "500SMS",
+      "yas_grubu": "Herkes",
+      "kategori": "Standart",
+      "yurtdisi": "0dk",
+      "populer": true,
+      "avantajlar": [
+        "Prime"
+      ],
+      "taahhut": 12
+    },
+    {
+      "operator": "【entity-Türk Telekom¦canonical_name=Türk Telekom】",
+      "isim": "Hafta Sonu HİT Yeni 10 + 5 GBFaturalı",
+      "fiyat": 280,
+      "fiyat_mnt": 252,
+      "fiyat_yeni_hat": 238,
+      "internet": "10GB",
+      "dk": "500DK",
+      "sms": "500SMS",
+      "yas_grubu": "Herkes",
+      "kategori": "Standart",
+      "yurtdisi": "0dk",
+      "populer": true,
+      "avantajlar": [
+        "Prime"
+      ],
+      "taahhut": 12
+    },
+    {
+      "operator": "【entity-Türk Telekom¦canonical_name=Türk Telekom】",
+      "isim": "Okulda HİT 10 + 5 GBFaturalı",
+      "fiyat": 280,
+      "fiyat_mnt": 252,
+      "fiyat_yeni_hat": 238,
+      "internet": "10GB",
+      "dk": "500DK",
+      "sms": "500SMS",
+      "yas_grubu": "Herkes",
+      "kategori": "Standart",
+      "yurtdisi": "0dk",
+      "populer": true,
+      "avantajlar": [
+        "Prime"
+      ],
+      "taahhut": 12
+    },
+    {
+      "operator": "【entity-Türk Telekom¦canonical_name=Türk Telekom】",
+      "isim": "Yeni Uğurlu 10 GBFaturalı",
+      "fiyat": 470,
+      "fiyat_mnt": 423,
+      "fiyat_yeni_hat": 400,
+      "internet": "10GB",
+      "dk": "1.000DK",
+      "sms": "250SMS",
+      "yas_grubu": "Herkes",
+      "kategori": "Standart",
+      "yurtdisi": "0dk",
+      "populer": false,
+      "avantajlar": [
+        "Prime"
+      ],
+      "taahhut": 12
+    },
+    {
+      "operator": "【entity-Türk Telekom¦canonical_name=Türk Telekom】",
+      "isim": "Yeni Selfy 10 + 10 GBFaturalı",
+      "fiyat": 565,
+      "fiyat_mnt": 508,
+      "fiyat_yeni_hat": 480,
+      "internet": "10GB",
+      "dk": "1.000DK",
+      "sms": "250SMS",
+      "yas_grubu": "Genç",
+      "kategori": "Genç",
+      "yurtdisi": "0dk",
+      "populer": false,
+      "avantajlar": [
+        "Prime"
+      ],
+      "taahhut": 12
+    },
+    {
+      "operator": "【entity-Türk Telekom¦canonical_name=Türk Telekom】",
+      "isim": "MEB 10 GBFaturalı",
+      "fiyat": 215,
+      "fiyat_mnt": 194,
+      "fiyat_yeni_hat": 183,
+      "internet": "10GB",
+      "dk": "1.000DK",
+      "sms": "1.000SMS",
+      "yas_grubu": "Herkes",
+      "kategori": "Standart",
+      "yurtdisi": "0dk",
+      "populer": true,
+      "avantajlar": [
+        "Prime"
+      ],
+      "taahhut": 12
+    },
+    {
+      "operator": "【entity-Türk Telekom¦canonical_name=Türk Telekom】",
+      "isim": "Dijital 15 + 2 GBFaturalı",
+      "fiyat": 272,
+      "fiyat_mnt": 245,
+      "fiyat_yeni_hat": 231,
+      "internet": "15GB",
+      "dk": "1.000DK",
+      "sms": "250SMS",
+      "yas_grubu": "Herkes",
+      "kategori": "Standart",
+      "yurtdisi": "0dk",
+      "populer": true,
+      "avantajlar": [
+        "Prime"
+      ],
+      "taahhut": 12
+    },
+    {
+      "operator": "【entity-Türk Telekom¦canonical_name=Türk Telekom】",
+      "isim": "Mobil Dijital 15 + 2 GBFaturalı",
+      "fiyat": 395,
+      "fiyat_mnt": 356,
+      "fiyat_yeni_hat": 336,
+      "internet": "15GB",
+      "dk": "1.000DK",
+      "sms": "250SMS",
+      "yas_grubu": "Herkes",
+      "kategori": "Standart",
+      "yurtdisi": "0dk",
+      "populer": false,
+      "avantajlar": [
+        "Prime"
+      ],
+      "taahhut": 12
+    },
+    {
+      "operator": "【entity-Türk Telekom¦canonical_name=Türk Telekom】",
+      "isim": "Hep HİT 15 + 5 GBFaturalı",
+      "fiyat": 250,
+      "fiyat_mnt": 225,
+      "fiyat_yeni_hat": 212,
+      "internet": "15GB",
+      "dk": "500DK",
+      "sms": "500SMS",
+      "yas_grubu": "Herkes",
+      "kategori": "Standart",
+      "yurtdisi": "0dk",
+      "populer": true,
+      "avantajlar": [
+        "Prime"
+      ],
+      "taahhut": 12
+    },
+    {
+      "operator": "【entity-Türk Telekom¦canonical_name=Türk Telekom】",
+      "isim": "Hafta Sonu HİT Yeni 15 + 5 GBFaturalı",
+      "fiyat": 250,
+      "fiyat_mnt": 225,
+      "fiyat_yeni_hat": 212,
+      "internet": "15GB",
+      "dk": "500DK",
+      "sms": "500SMS",
+      "yas_grubu": "Herkes",
+      "kategori": "Standart",
+      "yurtdisi": "0dk",
+      "populer": true,
+      "avantajlar": [
+        "Prime"
+      ],
+      "taahhut": 12
+    },
+    {
+      "operator": "【entity-Türk Telekom¦canonical_name=Türk Telekom】",
+      "isim": "Okulda HİT 15 + 5 GBFaturalı",
+      "fiyat": 250,
+      "fiyat_mnt": 225,
+      "fiyat_yeni_hat": 212,
+      "internet": "15GB",
+      "dk": "500DK",
+      "sms": "500SMS",
+      "yas_grubu": "Herkes",
+      "kategori": "Standart",
+      "yurtdisi": "0dk",
+      "populer": true,
+      "avantajlar": [
+        "Prime"
+      ],
+      "taahhut": 12
+    },
+    {
+      "operator": "【entity-Türk Telekom¦canonical_name=Türk Telekom】",
+      "isim": "Selfy 15 + 15 GBFaturalı",
+      "fiyat": 360,
+      "fiyat_mnt": 324,
+      "fiyat_yeni_hat": 306,
+      "internet": "15GB",
+      "dk": "750DK",
+      "sms": "250SMS",
+      "yas_grubu": "Genç",
+      "kategori": "Genç",
+      "yurtdisi": "0dk",
+      "populer": false,
+      "avantajlar": [
+        "Prime"
+      ],
+      "taahhut": 12
+    },
+    {
+      "operator": "【entity-Türk Telekom¦canonical_name=Türk Telekom】",
+      "isim": "Yeni Selfy 15 + 15 GBFaturalı",
+      "fiyat": 435,
+      "fiyat_mnt": 392,
+      "fiyat_yeni_hat": 370,
+      "internet": "15GB",
+      "dk": "1.000DK",
+      "sms": "250SMS",
+      "yas_grubu": "Genç",
+      "kategori": "Genç",
+      "yurtdisi": "0dk",
+      "populer": false,
+      "avantajlar": [
+        "Prime"
+      ],
+      "taahhut": 12
+    },
+    {
+      "operator": "【entity-Türk Telekom¦canonical_name=Türk Telekom】",
+      "isim": "Gel Tanışalım 15 GBFaturalı",
+      "fiyat": 390,
+      "fiyat_mnt": 351,
+      "fiyat_yeni_hat": 332,
+      "internet": "15GB",
+      "dk": "1.000DK",
+      "sms": "250SMS",
+      "yas_grubu": "Herkes",
+      "kategori": "Standart",
+      "yurtdisi": "0dk",
+      "populer": false,
+      "avantajlar": [
+        "Prime"
+      ],
+      "taahhut": 12
+    },
+    {
+      "operator": "【entity-Türk Telekom¦canonical_name=Türk Telekom】",
+      "isim": "Yeni Uğurlu 15 GBFaturalı",
+      "fiyat": 450,
+      "fiyat_mnt": 405,
+      "fiyat_yeni_hat": 382,
+      "internet": "15GB",
+      "dk": "1.000DK",
+      "sms": "250SMS",
+      "yas_grubu": "Herkes",
+      "kategori": "Standart",
+      "yurtdisi": "0dk",
+      "populer": false,
+      "avantajlar": [
+        "Prime"
+      ],
+      "taahhut": 12
+    },
+    {
+      "operator": "【entity-Türk Telekom¦canonical_name=Türk Telekom】",
+      "isim": "Hep HİT 15 + 5 GBFaturalı",
+      "fiyat": 310,
+      "fiyat_mnt": 279,
+      "fiyat_yeni_hat": 264,
+      "internet": "15GB",
+      "dk": "500DK",
+      "sms": "500SMS",
+      "yas_grubu": "Herkes",
+      "kategori": "Standart",
+      "yurtdisi": "0dk",
+      "populer": true,
+      "avantajlar": [
+        "Prime"
+      ],
+      "taahhut": 12
+    },
+    {
+      "operator": "【entity-Türk Telekom¦canonical_name=Türk Telekom】",
+      "isim": "Hafta Sonu HİT Yeni 15 + 5 GBFaturalı",
+      "fiyat": 310,
+      "fiyat_mnt": 279,
+      "fiyat_yeni_hat": 264,
+      "internet": "15GB",
+      "dk": "500DK",
+      "sms": "500SMS",
+      "yas_grubu": "Herkes",
+      "kategori": "Standart",
+      "yurtdisi": "0dk",
+      "populer": true,
+      "avantajlar": [
+        "Prime"
+      ],
+      "taahhut": 12
+    },
+    {
+      "operator": "【entity-Türk Telekom¦canonical_name=Türk Telekom】",
+      "isim": "Okulda HİT 15 + 5 GBFaturalı",
+      "fiyat": 310,
+      "fiyat_mnt": 279,
+      "fiyat_yeni_hat": 264,
+      "internet": "15GB",
+      "dk": "500DK",
+      "sms": "500SMS",
+      "yas_grubu": "Herkes",
+      "kategori": "Standart",
+      "yurtdisi": "0dk",
+      "populer": true,
+      "avantajlar": [
+        "Prime"
+      ],
+      "taahhut": 12
+    },
+    {
+      "operator": "【entity-Türk Telekom¦canonical_name=Türk Telekom】",
+      "isim": "Yeni Uğurlu 15 GBFaturalı",
+      "fiyat": 565,
+      "fiyat_mnt": 508,
+      "fiyat_yeni_hat": 480,
+      "internet": "15GB",
+      "dk": "1.000DK",
+      "sms": "250SMS",
+      "yas_grubu": "Herkes",
+      "kategori": "Standart",
+      "yurtdisi": "0dk",
+      "populer": false,
+      "avantajlar": [
+        "Prime"
+      ],
+      "taahhut": 12
+    },
+    {
+      "operator": "【entity-Türk Telekom¦canonical_name=Türk Telekom】",
+      "isim": "Yeni Selfy 15 + 15 GBFaturalı",
+      "fiyat": 665,
+      "fiyat_mnt": 598,
+      "fiyat_yeni_hat": 565,
+      "internet": "15GB",
+      "dk": "1.000DK",
+      "sms": "250SMS",
+      "yas_grubu": "Genç",
+      "kategori": "Genç",
+      "yurtdisi": "0dk",
+      "populer": false,
+      "avantajlar": [
+        "Prime"
+      ],
+      "taahhut": 12
+    },
+    {
+      "operator": "【entity-Türk Telekom¦canonical_name=Türk Telekom】",
+      "isim": "Emniyet Yeni 15 GBFaturalı",
+      "fiyat": 273,
+      "fiyat_mnt": 246,
+      "fiyat_yeni_hat": 232,
+      "internet": "15GB",
+      "dk": "1.000DK",
+      "sms": "1.000SMS",
+      "yas_grubu": "Herkes",
+      "kategori": "Standart",
+      "yurtdisi": "0dk",
+      "populer": true,
+      "avantajlar": [
+        "Prime"
+      ],
+      "taahhut": 12
+    },
+    {
+      "operator": "【entity-Türk Telekom¦canonical_name=Türk Telekom】",
+      "isim": "Dijital 20 + 5 GBFaturalı",
+      "fiyat": 361,
+      "fiyat_mnt": 325,
+      "fiyat_yeni_hat": 307,
+      "internet": "20GB",
+      "dk": "1.000DK",
+      "sms": "250SMS",
+      "yas_grubu": "Herkes",
+      "kategori": "Standart",
+      "yurtdisi": "0dk",
+      "populer": true,
+      "avantajlar": [
+        "Prime"
+      ],
+      "taahhut": 12
+    },
+    {
+      "operator": "【entity-Türk Telekom¦canonical_name=Türk Telekom】",
+      "isim": "Mobil Dijital 20 + 5 GBFaturalı",
+      "fiyat": 475,
+      "fiyat_mnt": 428,
+      "fiyat_yeni_hat": 404,
+      "internet": "20GB",
+      "dk": "1.000DK",
+      "sms": "250SMS",
+      "yas_grubu": "Herkes",
+      "kategori": "Standart",
+      "yurtdisi": "0dk",
+      "populer": true,
+      "avantajlar": [
+        "Prime"
+      ],
+      "taahhut": 12
+    },
+    {
+      "operator": "【entity-Türk Telekom¦canonical_name=Türk Telekom】",
+      "isim": "Selfy 20 + 20 GBFaturalı",
+      "fiyat": 410,
+      "fiyat_mnt": 369,
+      "fiyat_yeni_hat": 348,
+      "internet": "20GB",
+      "dk": "750DK",
+      "sms": "250SMS",
+      "yas_grubu": "Genç",
+      "kategori": "Genç",
+      "yurtdisi": "0dk",
+      "populer": true,
+      "avantajlar": [
+        "Prime"
+      ],
+      "taahhut": 12
+    },
+    {
+      "operator": "【entity-Türk Telekom¦canonical_name=Türk Telekom】",
+      "isim": "Yeni Selfy 20 + 20 GBFaturalı",
+      "fiyat": 500,
+      "fiyat_mnt": 450,
+      "fiyat_yeni_hat": 425,
+      "internet": "20GB",
+      "dk": "1.000DK",
+      "sms": "250SMS",
+      "yas_grubu": "Genç",
+      "kategori": "Genç",
+      "yurtdisi": "0dk",
+      "populer": true,
+      "avantajlar": [
+        "Prime"
+      ],
+      "taahhut": 12
+    },
+    {
+      "operator": "【entity-Türk Telekom¦canonical_name=Türk Telekom】",
+      "isim": "Yeni Uğurlu 20 GBFaturalı",
+      "fiyat": 510,
+      "fiyat_mnt": 459,
+      "fiyat_yeni_hat": 434,
+      "internet": "20GB",
+      "dk": "1.000DK",
+      "sms": "250SMS",
+      "yas_grubu": "Herkes",
+      "kategori": "Standart",
+      "yurtdisi": "0dk",
+      "populer": true,
+      "avantajlar": [
+        "Prime"
+      ],
+      "taahhut": 12
+    },
+    {
+      "operator": "【entity-Türk Telekom¦canonical_name=Türk Telekom】",
+      "isim": "Yeni Uğurlu 20 GBFaturalı",
+      "fiyat": 625,
+      "fiyat_mnt": 562,
+      "fiyat_yeni_hat": 531,
+      "internet": "20GB",
+      "dk": "1.000DK",
+      "sms": "250SMS",
+      "yas_grubu": "Herkes",
+      "kategori": "Standart",
+      "yurtdisi": "0dk",
+      "populer": true,
+      "avantajlar": [
+        "Prime"
+      ],
+      "taahhut": 12
+    },
+    {
+      "operator": "【entity-Türk Telekom¦canonical_name=Türk Telekom】",
+      "isim": "Yeni Selfy 20 + 20 GBFaturalı",
+      "fiyat": 725,
+      "fiyat_mnt": 652,
+      "fiyat_yeni_hat": 616,
+      "internet": "20GB",
+      "dk": "1.000DK",
+      "sms": "250SMS",
+      "yas_grubu": "Genç",
+      "kategori": "Genç",
+      "yurtdisi": "0dk",
+      "populer": true,
+      "avantajlar": [
+        "Prime"
+      ],
+      "taahhut": 12
+    },
+    {
+      "operator": "【entity-Türk Telekom¦canonical_name=Türk Telekom】",
+      "isim": "MEB 20 GBFaturalı",
+      "fiyat": 275,
+      "fiyat_mnt": 248,
+      "fiyat_yeni_hat": 234,
+      "internet": "20GB",
+      "dk": "1.500DK",
+      "sms": "1.000SMS",
+      "yas_grubu": "Herkes",
+      "kategori": "Standart",
+      "yurtdisi": "0dk",
+      "populer": true,
+      "avantajlar": [
+        "Prime"
+      ],
+      "taahhut": 12
+    },
+    {
+      "operator": "【entity-Türk Telekom¦canonical_name=Türk Telekom】",
+      "isim": "Dijital 25 + 5 GBFaturalı",
+      "fiyat": 408,
+      "fiyat_mnt": 367,
+      "fiyat_yeni_hat": 347,
+      "internet": "25GB",
+      "dk": "1.000DK",
+      "sms": "250SMS",
+      "yas_grubu": "Herkes",
+      "kategori": "Standart",
+      "yurtdisi": "0dk",
+      "populer": false,
+      "avantajlar": [
+        "Prime"
+      ],
+      "taahhut": 12
+    },
+    {
+      "operator": "【entity-Türk Telekom¦canonical_name=Türk Telekom】",
+      "isim": "Mobil Dijital 25 + 5 GBFaturalı",
+      "fiyat": 555,
+      "fiyat_mnt": 500,
+      "fiyat_yeni_hat": 472,
+      "internet": "25GB",
+      "dk": "1.000DK",
+      "sms": "250SMS",
+      "yas_grubu": "Herkes",
+      "kategori": "Standart",
+      "yurtdisi": "0dk",
+      "populer": false,
+      "avantajlar": [
+        "Prime"
+      ],
+      "taahhut": 12
+    },
+    {
+      "operator": "【entity-Türk Telekom¦canonical_name=Türk Telekom】",
+      "isim": "Yeni Uğurlu 25 GBFaturalı",
+      "fiyat": 570,
+      "fiyat_mnt": 513,
+      "fiyat_yeni_hat": 484,
+      "internet": "25GB",
+      "dk": "1.000DK",
+      "sms": "250SMS",
+      "yas_grubu": "Herkes",
+      "kategori": "Standart",
+      "yurtdisi": "0dk",
+      "populer": false,
+      "avantajlar": [
+        "Prime"
+      ],
+      "taahhut": 12
+    },
+    {
+      "operator": "【entity-Türk Telekom¦canonical_name=Türk Telekom】",
+      "isim": "Yeni Uğurlu 25 GBFaturalı",
+      "fiyat": 680,
+      "fiyat_mnt": 612,
+      "fiyat_yeni_hat": 578,
+      "internet": "25GB",
+      "dk": "1.000DK",
+      "sms": "250SMS",
+      "yas_grubu": "Herkes",
+      "kategori": "Standart",
+      "yurtdisi": "0dk",
+      "populer": false,
+      "avantajlar": [
+        "Prime"
+      ],
+      "taahhut": 12
+    },
+    {
+      "operator": "【entity-Türk Telekom¦canonical_name=Türk Telekom】",
+      "isim": "Prime Netflix 30 GBFaturalı",
+      "fiyat": 600,
+      "fiyat_mnt": 540,
+      "fiyat_yeni_hat": 510,
+      "internet": "30GB",
+      "dk": "3.000DK",
+      "sms": "250SMS",
+      "yas_grubu": "Herkes",
+      "kategori": "Standart",
+      "yurtdisi": "0dk",
+      "populer": false,
+      "avantajlar": [
+        "Prime"
+      ],
+      "taahhut": 12
+    },
+    {
+      "operator": "【entity-Türk Telekom¦canonical_name=Türk Telekom】",
+      "isim": "Yeni Prime Düşün 30 + 10 GBFaturalı",
+      "fiyat": 750,
+      "fiyat_mnt": 675,
+      "fiyat_yeni_hat": 638,
+      "internet": "30GB",
+      "dk": "3.000DK",
+      "sms": "250SMS",
+      "yas_grubu": "Herkes",
+      "kategori": "Standart",
+      "yurtdisi": "0dk",
+      "populer": false,
+      "avantajlar": [
+        "Prime"
+      ],
+      "taahhut": 12
+    },
+    {
+      "operator": "【entity-Türk Telekom¦canonical_name=Türk Telekom】",
+      "isim": "Ailece Prime Düşün 30 GBFaturalı",
+      "fiyat": 575,
+      "fiyat_mnt": 518,
+      "fiyat_yeni_hat": 489,
+      "internet": "30GB",
+      "dk": "5.000DK",
+      "sms": "1.000SMS",
+      "yas_grubu": "Herkes",
+      "kategori": "Standart",
+      "yurtdisi": "0dk",
+      "populer": false,
+      "avantajlar": [
+        "Prime"
+      ],
+      "taahhut": 12
+    },
+    {
+      "operator": "【entity-Türk Telekom¦canonical_name=Türk Telekom】",
+      "isim": "Selfy 30 + 30 GBFaturalı",
+      "fiyat": 470,
+      "fiyat_mnt": 423,
+      "fiyat_yeni_hat": 400,
+      "internet": "30GB",
+      "dk": "750DK",
+      "sms": "250SMS",
+      "yas_grubu": "Genç",
+      "kategori": "Genç",
+      "yurtdisi": "0dk",
+      "populer": false,
+      "avantajlar": [
+        "Prime"
+      ],
+      "taahhut": 12
+    },
+    {
+      "operator": "【entity-Türk Telekom¦canonical_name=Türk Telekom】",
+      "isim": "Yeni Selfy 30 + 30 GBFaturalı",
+      "fiyat": 570,
+      "fiyat_mnt": 513,
+      "fiyat_yeni_hat": 484,
+      "internet": "30GB",
+      "dk": "1.000DK",
+      "sms": "250SMS",
+      "yas_grubu": "Genç",
+      "kategori": "Genç",
+      "yurtdisi": "0dk",
+      "populer": false,
+      "avantajlar": [
+        "Prime"
+      ],
+      "taahhut": 12
+    },
+    {
+      "operator": "【entity-Türk Telekom¦canonical_name=Türk Telekom】",
+      "isim": "Yeni Uğurlu 30 GBFaturalı",
+      "fiyat": 660,
+      "fiyat_mnt": 594,
+      "fiyat_yeni_hat": 561,
+      "internet": "30GB",
+      "dk": "1.000DK",
+      "sms": "250SMS",
+      "yas_grubu": "Herkes",
+      "kategori": "Standart",
+      "yurtdisi": "0dk",
+      "populer": false,
+      "avantajlar": [
+        "Prime"
+      ],
+      "taahhut": 12
+    },
+    {
+      "operator": "【entity-Türk Telekom¦canonical_name=Türk Telekom】",
+      "isim": "Prime Netflix 30 GBFaturalı",
+      "fiyat": 700,
+      "fiyat_mnt": 630,
+      "fiyat_yeni_hat": 595,
+      "internet": "30GB",
+      "dk": "3.000DK",
+      "sms": "250SMS",
+      "yas_grubu": "Herkes",
+      "kategori": "Standart",
+      "yurtdisi": "0dk",
+      "populer": false,
+      "avantajlar": [
+        "Prime"
+      ],
+      "taahhut": 12
+    },
+    {
+      "operator": "【entity-Türk Telekom¦canonical_name=Türk Telekom】",
+      "isim": "Yeni Uğurlu 30 GBFaturalı",
+      "fiyat": 740,
+      "fiyat_mnt": 666,
+      "fiyat_yeni_hat": 629,
+      "internet": "30GB",
+      "dk": "1.000DK",
+      "sms": "250SMS",
+      "yas_grubu": "Herkes",
+      "kategori": "Standart",
+      "yurtdisi": "0dk",
+      "populer": false,
+      "avantajlar": [
+        "Prime"
+      ],
+      "taahhut": 12
+    },
+    {
+      "operator": "【entity-Türk Telekom¦canonical_name=Türk Telekom】",
+      "isim": "Yeni Prime Düşün 30 + 10 GBFaturalı",
+      "fiyat": 805,
+      "fiyat_mnt": 724,
+      "fiyat_yeni_hat": 684,
+      "internet": "30GB",
+      "dk": "3.000DK",
+      "sms": "250SMS",
+      "yas_grubu": "Herkes",
+      "kategori": "Standart",
+      "yurtdisi": "0dk",
+      "populer": false,
+      "avantajlar": [
+        "Prime"
+      ],
+      "taahhut": 12
+    },
+    {
+      "operator": "【entity-Türk Telekom¦canonical_name=Türk Telekom】",
+      "isim": "Yeni Selfy 30 + 30 GBFaturalı",
+      "fiyat": 880,
+      "fiyat_mnt": 792,
+      "fiyat_yeni_hat": 748,
+      "internet": "30GB",
+      "dk": "1.000DK",
+      "sms": "250SMS",
+      "yas_grubu": "Genç",
+      "kategori": "Genç",
+      "yurtdisi": "0dk",
+      "populer": false,
+      "avantajlar": [
+        "Prime"
+      ],
+      "taahhut": 12
+    },
+    {
+      "operator": "【entity-Türk Telekom¦canonical_name=Türk Telekom】",
+      "isim": "MEB 30 GBFaturalı",
+      "fiyat": 350,
+      "fiyat_mnt": 315,
+      "fiyat_yeni_hat": 298,
+      "internet": "30GB",
+      "dk": "2.000DK",
+      "sms": "1.000SMS",
+      "yas_grubu": "Herkes",
+      "kategori": "Standart",
+      "yurtdisi": "0dk",
+      "populer": false,
+      "avantajlar": [
+        "Prime"
+      ],
+      "taahhut": 12
+    },
+    {
+      "operator": "【entity-Türk Telekom¦canonical_name=Türk Telekom】",
+      "isim": "Prime Netflix 40 GBFaturalı",
+      "fiyat": 720,
+      "fiyat_mnt": 648,
+      "fiyat_yeni_hat": 612,
+      "internet": "40GB",
+      "dk": "3.000DK",
+      "sms": "250SMS",
+      "yas_grubu": "Herkes",
+      "kategori": "Standart",
+      "yurtdisi": "0dk",
+      "populer": false,
+      "avantajlar": [
+        "Prime"
+      ],
+      "taahhut": 12
+    },
+    {
+      "operator": "【entity-Türk Telekom¦canonical_name=Türk Telekom】",
+      "isim": "Yeni Prime Düşün 40 + 10 GBFaturalı",
+      "fiyat": 805,
+      "fiyat_mnt": 724,
+      "fiyat_yeni_hat": 684,
+      "internet": "40GB",
+      "dk": "3.000DK",
+      "sms": "250SMS",
+      "yas_grubu": "Herkes",
+      "kategori": "Standart",
+      "yurtdisi": "0dk",
+      "populer": false,
+      "avantajlar": [
+        "Prime"
+      ],
+      "taahhut": 12
+    },
+    {
+      "operator": "【entity-Türk Telekom¦canonical_name=Türk Telekom】",
+      "isim": "Prime Netflix 40 GBFaturalı",
+      "fiyat": 800,
+      "fiyat_mnt": 720,
+      "fiyat_yeni_hat": 680,
+      "internet": "40GB",
+      "dk": "3.000DK",
+      "sms": "250SMS",
+      "yas_grubu": "Herkes",
+      "kategori": "Standart",
+      "yurtdisi": "0dk",
+      "populer": false,
+      "avantajlar": [
+        "Prime"
+      ],
+      "taahhut": 12
+    },
+    {
+      "operator": "【entity-Türk Telekom¦canonical_name=Türk Telekom】",
+      "isim": "Yeni Prime Düşün 40 + 10 GBFaturalı",
+      "fiyat": 865,
+      "fiyat_mnt": 778,
+      "fiyat_yeni_hat": 735,
+      "internet": "40GB",
+      "dk": "3.000DK",
+      "sms": "250SMS",
+      "yas_grubu": "Herkes",
+      "kategori": "Standart",
+      "yurtdisi": "0dk",
+      "populer": false,
+      "avantajlar": [
+        "Prime"
+      ],
+      "taahhut": 12
+    },
+    {
+      "operator": "【entity-Türk Telekom¦canonical_name=Türk Telekom】",
+      "isim": "MEB 40 GBFaturalı",
+      "fiyat": 465,
+      "fiyat_mnt": 418,
+      "fiyat_yeni_hat": 395,
+      "internet": "40GB",
+      "dk": "2.000DK",
+      "sms": "1.000SMS",
+      "yas_grubu": "Herkes",
+      "kategori": "Standart",
+      "yurtdisi": "0dk",
+      "populer": false,
+      "avantajlar": [
+        "Prime"
+      ],
+      "taahhut": 12
+    },
+    {
+      "operator": "【entity-Türk Telekom¦canonical_name=Türk Telekom】",
+      "isim": "Yeni Prime Sosyal Düşün 50 GBFaturalı",
+      "fiyat": 915,
+      "fiyat_mnt": 824,
+      "fiyat_yeni_hat": 778,
+      "internet": "50GB",
+      "dk": "3.000DK",
+      "sms": "250SMS",
+      "yas_grubu": "Herkes",
+      "kategori": "Standart",
+      "yurtdisi": "0dk",
+      "populer": false,
+      "avantajlar": [
+        "Prime"
+      ],
+      "taahhut": 12
+    },
+    {
+      "operator": "【entity-Türk Telekom¦canonical_name=Türk Telekom】",
+      "isim": "Ailece Prime Düşün 50 GBFaturalı",
+      "fiyat": 695,
+      "fiyat_mnt": 626,
+      "fiyat_yeni_hat": 591,
+      "internet": "50GB",
+      "dk": "5.000DK",
+      "sms": "1.000SMS",
+      "yas_grubu": "Herkes",
+      "kategori": "Standart",
+      "yurtdisi": "0dk",
+      "populer": false,
+      "avantajlar": [
+        "Prime"
+      ],
+      "taahhut": 12
+    },
+    {
+      "operator": "【entity-Türk Telekom¦canonical_name=Türk Telekom】",
+      "isim": "Yeni Selfy Sınırsız Sosyal 50 GBFaturalı",
+      "fiyat": 630,
+      "fiyat_mnt": 567,
+      "fiyat_yeni_hat": 536,
+      "internet": "50GB",
+      "dk": "1.000DK",
+      "sms": "250SMS",
+      "yas_grubu": "Genç",
+      "kategori": "Genç",
+      "yurtdisi": "0dk",
+      "populer": false,
+      "avantajlar": [
+        "Prime"
+      ],
+      "taahhut": 12
+    },
+    {
+      "operator": "【entity-Türk Telekom¦canonical_name=Türk Telekom】",
+      "isim": "Yeni Prime Sosyal Düşün 50 GBFaturalı",
+      "fiyat": 980,
+      "fiyat_mnt": 882,
+      "fiyat_yeni_hat": 833,
+      "internet": "50GB",
+      "dk": "3.000DK",
+      "sms": "250SMS",
+      "yas_grubu": "Herkes",
+      "kategori": "Standart",
+      "yurtdisi": "0dk",
+      "populer": false,
+      "avantajlar": [
+        "Prime"
+      ],
+      "taahhut": 12
+    },
+    {
+      "operator": "【entity-Türk Telekom¦canonical_name=Türk Telekom】",
+      "isim": "Yeni Selfy Sınırsız Sosyal 50 GBFaturalı",
+      "fiyat": 940,
+      "fiyat_mnt": 846,
+      "fiyat_yeni_hat": 799,
+      "internet": "50GB",
+      "dk": "1.000DK",
+      "sms": "250SMS",
+      "yas_grubu": "Genç",
+      "kategori": "Genç",
+      "yurtdisi": "0dk",
+      "populer": false,
+      "avantajlar": [
+        "Prime"
+      ],
+      "taahhut": 12
+    },
+    {
+      "operator": "【entity-Türk Telekom¦canonical_name=Türk Telekom】",
+      "isim": "MEB 5 GBFaturalı",
+      "fiyat": 180,
+      "fiyat_mnt": 162,
+      "fiyat_yeni_hat": 153,
+      "internet": "5GB",
+      "dk": "500DK",
+      "sms": "1.000SMS",
+      "yas_grubu": "Herkes",
+      "kategori": "Standart",
+      "yurtdisi": "0dk",
+      "populer": true,
+      "avantajlar": [
+        "Prime"
+      ],
+      "taahhut": 12
+    },
+    {
+      "operator": "【entity-Türk Telekom¦canonical_name=Türk Telekom】",
+      "isim": "MEB 50 GBFaturalı",
+      "fiyat": 500,
+      "fiyat_mnt": 450,
+      "fiyat_yeni_hat": 425,
+      "internet": "50GB",
+      "dk": "2.000DK",
+      "sms": "1.000SMS",
+      "yas_grubu": "Herkes",
+      "kategori": "Standart",
+      "yurtdisi": "0dk",
+      "populer": false,
+      "avantajlar": [
+        "Prime"
+      ],
+      "taahhut": 12
+    },
+    {
+      "operator": "【entity-Türk Telekom¦canonical_name=Türk Telekom】",
+      "isim": "Prime Netflix 60 GBFaturalı",
+      "fiyat": 840,
+      "fiyat_mnt": 756,
+      "fiyat_yeni_hat": 714,
+      "internet": "60GB",
+      "dk": "3.000DK",
+      "sms": "250SMS",
+      "yas_grubu": "Herkes",
+      "kategori": "Standart",
+      "yurtdisi": "0dk",
+      "populer": false,
+      "avantajlar": [
+        "Prime"
+      ],
+      "taahhut": 12
+    },
+    {
+      "operator": "【entity-Türk Telekom¦canonical_name=Türk Telekom】",
+      "isim": "Yeni Prime Özgür Düşün 60 GBFaturalı",
+      "fiyat": 980,
+      "fiyat_mnt": 882,
+      "fiyat_yeni_hat": 833,
+      "internet": "60GB",
+      "dk": "3.000DK",
+      "sms": "250SMS",
+      "yas_grubu": "Herkes",
+      "kategori": "Standart",
+      "yurtdisi": "0dk",
+      "populer": false,
+      "avantajlar": [
+        "Prime"
+      ],
+      "taahhut": 12
+    },
+    {
+      "operator": "【entity-Türk Telekom¦canonical_name=Türk Telekom】",
+      "isim": "Prime Netflix 60 GBFaturalı",
+      "fiyat": 900,
+      "fiyat_mnt": 810,
+      "fiyat_yeni_hat": 765,
+      "internet": "60GB",
+      "dk": "3.000DK",
+      "sms": "250SMS",
+      "yas_grubu": "Herkes",
+      "kategori": "Standart",
+      "yurtdisi": "0dk",
+      "populer": false,
+      "avantajlar": [
+        "Prime"
+      ],
+      "taahhut": 12
+    },
+    {
+      "operator": "【entity-Türk Telekom¦canonical_name=Türk Telekom】",
+      "isim": "Yeni Prime Özgür Düşün 60 GBFaturalı",
+      "fiyat": 1035,
+      "fiyat_mnt": 932,
+      "fiyat_yeni_hat": 880,
+      "internet": "60GB",
+      "dk": "3.000DK",
+      "sms": "250SMS",
+      "yas_grubu": "Herkes",
+      "kategori": "Standart",
+      "yurtdisi": "0dk",
+      "populer": false,
+      "avantajlar": [
+        "Prime"
+      ],
+      "taahhut": 12
+    },
+    {
+      "operator": "【entity-Türk Telekom¦canonical_name=Türk Telekom】",
+      "isim": "Yeni Prime Sınırsız Düşün 70 GBFaturalı",
+      "fiyat": 1045,
+      "fiyat_mnt": 940,
+      "fiyat_yeni_hat": 888,
+      "internet": "70GB",
+      "dk": "3.000DK",
+      "sms": "250SMS",
+      "yas_grubu": "Herkes",
+      "kategori": "Standart",
+      "yurtdisi": "0dk",
+      "populer": false,
+      "avantajlar": [
+        "Prime"
+      ],
+      "taahhut": 12
+    },
+    {
+      "operator": "【entity-Türk Telekom¦canonical_name=Türk Telekom】",
+      "isim": "Yeni Prime Sınırsız Düşün 70 GBFaturalı",
+      "fiyat": 1095,
+      "fiyat_mnt": 986,
+      "fiyat_yeni_hat": 931,
+      "internet": "70GB",
+      "dk": "3.000DK",
+      "sms": "250SMS",
+      "yas_grubu": "Herkes",
+      "kategori": "Standart",
+      "yurtdisi": "0dk",
+      "populer": false,
+      "avantajlar": [
+        "Prime"
+      ],
+      "taahhut": 12
+    },
+    {
+      "operator": "【entity-Türk Telekom¦canonical_name=Türk Telekom】",
+      "isim": "Ailece Prime Düşün 100 GBFaturalı",
+      "fiyat": 1080,
+      "fiyat_mnt": 972,
+      "fiyat_yeni_hat": 918,
+      "internet": "100GB",
+      "dk": "5.000DK",
+      "sms": "1.000SMS",
+      "yas_grubu": "Herkes",
+      "kategori": "Standart",
+      "yurtdisi": "0dk",
+      "populer": false,
+      "avantajlar": [
+        "Prime"
+      ],
+      "taahhut": 12
     }
   ]
 }
