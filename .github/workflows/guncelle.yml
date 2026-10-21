@@ -1,6 +1,5 @@
 name: Haftalık Tarife Güncelleme
-on:
-  workflow_dispatch:
+on: workflow_dispatch
 permissions:
   contents: write
 jobs:
@@ -11,14 +10,11 @@ jobs:
       - uses: actions/setup-python@v5
         with:
           python-version: '3.11'
-      - name: Kur
-        run: pip install -r requirements.txt
-      - name: Çek
-        run: python scraper.py
-      - name: Kaydet
-        run: |
+      - run: pip install -r requirements.txt
+      - run: python scraper.py
+      - run: |
           git config user.name "bot"
           git config user.email "bot@bot.com"
           git add tarifeler.json
-          git diff --staged --quiet || git commit -m "guncelle"
+          git commit -m "guncelle" || echo "no changes"
           git push
