@@ -1,26 +1,22 @@
 name: Haftalık Tarife Güncelleme
-
 on:
   schedule:
     - cron: '0 3 * * *'
   workflow_dispatch:
-
 permissions:
   contents: write
-
 jobs:
   scrape:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-      - uses: actions/setup-python@v5
+      - uses: actions/setup-python@v4
         with:
-          python-version: '3.11'
-      - run: pip install -r requirements.txt
+          python-version: '3.10'
       - run: python scraper.py
       - run: |
-          git config user.name "tarife-bot"
+          git config user.name "bot"
           git config user.email "bot@magaza.com"
           git add tarifeler.json
-          git commit -m "guncelle: $(date)" || echo "degisiklik yok"
+          git commit -m "guncelle" || echo "yok"
           git push
