@@ -1,7 +1,5 @@
 name: Haftalık Tarife Güncelleme
 on:
-  schedule:
-        - cron: '0 6 * * 1'
   workflow_dispatch:
 permissions:
   contents: write
@@ -9,18 +7,18 @@ jobs:
   scrape:
     runs-on: ubuntu-latest
     steps:
-            - uses: actions/checkout@v4
-            - uses: actions/setup-python@v5
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
         with:
           python-version: '3.11'
-            - name: Paketleri kur
+      - name: Kur
         run: pip install -r requirements.txt
-            - name: Tarifeleri çek
+      - name: Çek
         run: python scraper.py
-            - name: Commit ve Push
+      - name: Kaydet
         run: |
-          git config user.name "tarife-bot"
-          git config user.email "bot@magazam.local"
+          git config user.name "bot"
+          git config user.email "bot@bot.com"
           git add tarifeler.json
-          git diff --staged --quiet || git commit -m "Otomatik guncelleme"
+          git diff --staged --quiet || git commit -m "guncelle"
           git push
