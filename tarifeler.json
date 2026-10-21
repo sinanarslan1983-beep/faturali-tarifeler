@@ -1,188 +1,924 @@
 {
-  "guncelleme": "21.10.2026 07:38",
-  "toplam_tarife": 15,
+  "guncelleme": "21.10.2026 07:48",
+  "toplam_tarife": 112,
   "kaynaklar": [
-    "https://www.vodafone.com.tr/tarifeler/faturali-tarifeler",
+    "https://www.vodafone.com.tr/numara-tasima-yeni-hat/tarifeler/new/postpaid/ALL",
     "https://www.turkcell.com.tr/paket-ve-tarifeler/faturali-hat",
     "https://bireysel.turktelekom.com.tr/mobil/yeni-musteri-tarife-ve-paketleri/faturali-tarifeler"
   ],
   "tarifeler": [
     {
-      "operator": "【entity-Vodafone¦canonical_name=Vodafone】",
-      "isim": "5G Online Plus 20GB",
-      "fiyat": 465,
-      "fiyat_mnt": 419,
-      "fiyat_yeni_hat": 395,
-      "internet": "20GB",
-      "dk": "1000",
-      "sms": "250",
-      "yas_grubu": "Herkes",
-      "kategori": "Standart",
-      "yurtdisi": "0dk",
-      "populer": true,
-      "avantajlar": [
-        "5G",
-        "Online'a Özel"
-      ],
-      "taahhut": 12
-    },
-    {
       "operator": "Vodafone",
-      "isim": "5G Online Plus 30GB",
-      "fiyat": 565,
-      "fiyat_mnt": 509,
-      "fiyat_yeni_hat": 480,
-      "internet": "30GB",
-      "dk": "1000",
-      "sms": "250",
-      "yas_grubu": "Herkes",
-      "kategori": "Standart",
-      "yurtdisi": "100dk",
-      "populer": true,
-      "avantajlar": [
-        "5G"
-      ],
-      "taahhut": 12
-    },
-    {
-      "operator": "Vodafone",
-      "isim": "5G Online Plus 50GB",
-      "fiyat": 685,
-      "fiyat_mnt": 617,
-      "fiyat_yeni_hat": 582,
-      "internet": "50GB",
-      "dk": "1000",
-      "sms": "250",
-      "yas_grubu": "Herkes",
-      "kategori": "Standart",
-      "yurtdisi": "200dk",
-      "populer": false,
-      "avantajlar": [
-        "5G"
-      ],
-      "taahhut": 12
-    },
-    {
-      "operator": "Vodafone",
-      "isim": "Red 20GB",
-      "fiyat": 520,
-      "fiyat_mnt": 468,
-      "fiyat_yeni_hat": 442,
-      "internet": "20GB",
-      "dk": "1000",
-      "sms": "250",
-      "yas_grubu": "Herkes",
-      "kategori": "Standart",
-      "yurtdisi": "50dk",
-      "populer": false,
-      "avantajlar": [
-        "Red Ayrıcalık"
-      ],
-      "taahhut": 12
-    },
-    {
-      "operator": "Vodafone",
-      "isim": "Red 30GB",
-      "fiyat": 590,
-      "fiyat_mnt": 531,
-      "fiyat_yeni_hat": 502,
-      "internet": "30GB",
-      "dk": "Sınırsız",
-      "sms": "Sınırsız",
-      "yas_grubu": "Herkes",
-      "kategori": "Standart",
-      "yurtdisi": "100dk",
-      "populer": true,
-      "avantajlar": [
-        "Red"
-      ],
-      "taahhut": 12
-    },
-    {
-      "operator": "【entity-Vodafone¦canonical_name=Vodafone】",
-      "isim": "FreeZone 20GB Genç",
-      "fiyat": 420,
-      "fiyat_mnt": 378,
-      "fiyat_yeni_hat": 357,
-      "internet": "20GB",
-      "dk": "Sınırsız",
-      "sms": "Sınırsız",
-      "yas_grubu": "Genç",
-      "kategori": "Genç",
-      "yurtdisi": "50dk",
-      "populer": true,
-      "avantajlar": [
-        "TikTok Sınırsız"
-      ],
-      "taahhut": 12
-    },
-    {
-      "operator": "Vodafone",
-      "isim": "İlk Hattım 5GB",
-      "fiyat": 280,
-      "fiyat_mnt": 252,
-      "fiyat_yeni_hat": 238,
+      "isim": "5G Online Plus 5GB Paketi",
+      "fiyat": 315,
+      "fiyat_mnt": 284,
+      "fiyat_yeni_hat": 268,
       "internet": "5GB",
-      "dk": "500",
-      "sms": "250",
-      "yas_grubu": "Genç",
-      "kategori": "İlk Hattım",
-      "yurtdisi": "0dk",
-      "populer": false,
-      "avantajlar": [
-        "Güvenli İnternet"
-      ],
-      "taahhut": 12
-    },
-    {
-      "operator": "【entity-Vodafone¦canonical_name=Vodafone】",
-      "isim": "Süper65 10GB",
-      "fiyat": 285,
-      "fiyat_mnt": 257,
-      "fiyat_yeni_hat": 242,
-      "internet": "10GB",
-      "dk": "Sınırsız",
+      "dk": "1000",
       "sms": "250",
       "yas_grubu": "50+",
       "kategori": "65+",
       "yurtdisi": "0dk",
       "populer": false,
       "avantajlar": [
-        "65+ Avantaj",
-        "Durma Özelliği"
+        "5G"
       ],
       "taahhut": 12
     },
     {
-      "operator": "Turkcell",
-      "isim": "Star 10GB",
-      "fiyat": 650,
-      "fiyat_mnt": 585,
-      "fiyat_yeni_hat": 553,
+      "operator": "Vodafone",
+      "isim": "1000 DK + 250 SMS",
+      "fiyat": 315,
+      "fiyat_mnt": 284,
+      "fiyat_yeni_hat": 268,
+      "internet": "5 GB",
+      "dk": "1000",
+      "sms": "250",
+      "yas_grubu": "Herkes",
+      "kategori": "Standart",
+      "yurtdisi": "0dk",
+      "populer": false,
+      "avantajlar": [
+        "5G"
+      ],
+      "taahhut": 12
+    },
+    {
+      "operator": "Vodafone",
+      "isim": "5G Online Plus 10GB Paketi",
+      "fiyat": 365,
+      "fiyat_mnt": 328,
+      "fiyat_yeni_hat": 310,
+      "internet": "10GB",
+      "dk": "1000",
+      "sms": "250",
+      "yas_grubu": "50+",
+      "kategori": "65+",
+      "yurtdisi": "0dk",
+      "populer": false,
+      "avantajlar": [
+        "5G"
+      ],
+      "taahhut": 12
+    },
+    {
+      "operator": "Vodafone",
+      "isim": "1000 DK + 250 SMS",
+      "fiyat": 365,
+      "fiyat_mnt": 328,
+      "fiyat_yeni_hat": 310,
+      "internet": "10 GB",
+      "dk": "1000",
+      "sms": "250",
+      "yas_grubu": "50+",
+      "kategori": "65+",
+      "yurtdisi": "0dk",
+      "populer": false,
+      "avantajlar": [
+        "5G"
+      ],
+      "taahhut": 12
+    },
+    {
+      "operator": "Vodafone",
+      "isim": "5G Online Plus 20GB Paketi",
+      "fiyat": 465,
+      "fiyat_mnt": 418,
+      "fiyat_yeni_hat": 395,
+      "internet": "20GB",
+      "dk": "1000",
+      "sms": "250",
+      "yas_grubu": "50+",
+      "kategori": "65+",
+      "yurtdisi": "0dk",
+      "populer": false,
+      "avantajlar": [
+        "5G"
+      ],
+      "taahhut": 12
+    },
+    {
+      "operator": "Vodafone",
+      "isim": "1000 DK + 250 SMS",
+      "fiyat": 465,
+      "fiyat_mnt": 418,
+      "fiyat_yeni_hat": 395,
+      "internet": "20 GB",
+      "dk": "1000",
+      "sms": "250",
+      "yas_grubu": "50+",
+      "kategori": "65+",
+      "yurtdisi": "0dk",
+      "populer": false,
+      "avantajlar": [
+        "5G"
+      ],
+      "taahhut": 12
+    },
+    {
+      "operator": "Vodafone",
+      "isim": "5G Online Plus 30GB Paketi",
+      "fiyat": 565,
+      "fiyat_mnt": 508,
+      "fiyat_yeni_hat": 480,
+      "internet": "30GB",
+      "dk": "1000",
+      "sms": "250",
+      "yas_grubu": "50+",
+      "kategori": "65+",
+      "yurtdisi": "0dk",
+      "populer": false,
+      "avantajlar": [
+        "5G"
+      ],
+      "taahhut": 12
+    },
+    {
+      "operator": "Vodafone",
+      "isim": "1000 DK + 250 SMS",
+      "fiyat": 565,
+      "fiyat_mnt": 508,
+      "fiyat_yeni_hat": 480,
+      "internet": "30 GB",
+      "dk": "1000",
+      "sms": "250",
+      "yas_grubu": "50+",
+      "kategori": "65+",
+      "yurtdisi": "0dk",
+      "populer": false,
+      "avantajlar": [
+        "5G"
+      ],
+      "taahhut": 12
+    },
+    {
+      "operator": "Vodafone",
+      "isim": "5G Online Plus 50GB Paketi",
+      "fiyat": 685,
+      "fiyat_mnt": 616,
+      "fiyat_yeni_hat": 582,
+      "internet": "50GB",
+      "dk": "1000",
+      "sms": "250",
+      "yas_grubu": "Herkes",
+      "kategori": "Standart",
+      "yurtdisi": "0dk",
+      "populer": false,
+      "avantajlar": [
+        "5G"
+      ],
+      "taahhut": 12
+    },
+    {
+      "operator": "Vodafone",
+      "isim": "1000 DK + 250 SMS",
+      "fiyat": 685,
+      "fiyat_mnt": 616,
+      "fiyat_yeni_hat": 582,
+      "internet": "50 GB",
+      "dk": "1000",
+      "sms": "250",
+      "yas_grubu": "Herkes",
+      "kategori": "Standart",
+      "yurtdisi": "0dk",
+      "populer": false,
+      "avantajlar": [
+        "5G"
+      ],
+      "taahhut": 12
+    },
+    {
+      "operator": "Vodafone",
+      "isim": "5G Red 40GB Sınırsız Sosyal Tarifesi",
+      "fiyat": 790,
+      "fiyat_mnt": 711,
+      "fiyat_yeni_hat": 672,
+      "internet": "40GB",
+      "dk": "Sınırsız",
+      "sms": "250",
+      "yas_grubu": "Herkes",
+      "kategori": "Standart",
+      "yurtdisi": "0dk",
+      "populer": true,
+      "avantajlar": [
+        "5G"
+      ],
+      "taahhut": 12
+    },
+    {
+      "operator": "Vodafone",
+      "isim": "SINIRSIZ DK + SINIRSIZ SMS",
+      "fiyat": 790,
+      "fiyat_mnt": 711,
+      "fiyat_yeni_hat": 672,
+      "internet": "40 GB",
+      "dk": "Sınırsız",
+      "sms": "250",
+      "yas_grubu": "Herkes",
+      "kategori": "Standart",
+      "yurtdisi": "0dk",
+      "populer": false,
+      "avantajlar": [
+        "5G"
+      ],
+      "taahhut": 12
+    },
+    {
+      "operator": "Vodafone",
+      "isim": "5G Red 60GB Sınırsız Eğlence Tarifesi",
+      "fiyat": 1000,
+      "fiyat_mnt": 900,
+      "fiyat_yeni_hat": 850,
+      "internet": "60GB",
+      "dk": "Sınırsız",
+      "sms": "250",
+      "yas_grubu": "Herkes",
+      "kategori": "Standart",
+      "yurtdisi": "0dk",
+      "populer": true,
+      "avantajlar": [
+        "5G"
+      ],
+      "taahhut": 12
+    },
+    {
+      "operator": "Vodafone",
+      "isim": "SINIRSIZ DK + SINIRSIZ SMS",
+      "fiyat": 1000,
+      "fiyat_mnt": 900,
+      "fiyat_yeni_hat": 850,
+      "internet": "60 GB",
+      "dk": "Sınırsız",
+      "sms": "250",
+      "yas_grubu": "Herkes",
+      "kategori": "Standart",
+      "yurtdisi": "0dk",
+      "populer": false,
+      "avantajlar": [
+        "5G"
+      ],
+      "taahhut": 12
+    },
+    {
+      "operator": "Vodafone",
+      "isim": "5G Red 100GB Sınırsız Tiktok Tarifesi",
+      "fiyat": 1200,
+      "fiyat_mnt": 1080,
+      "fiyat_yeni_hat": 1020,
+      "internet": "100GB",
+      "dk": "Sınırsız",
+      "sms": "250",
+      "yas_grubu": "Herkes",
+      "kategori": "Standart",
+      "yurtdisi": "0dk",
+      "populer": true,
+      "avantajlar": [
+        "5G"
+      ],
+      "taahhut": 12
+    },
+    {
+      "operator": "Vodafone",
+      "isim": "SINIRSIZ DK + SINIRSIZ SMS",
+      "fiyat": 1200,
+      "fiyat_mnt": 1080,
+      "fiyat_yeni_hat": 1020,
+      "internet": "100 GB",
+      "dk": "Sınırsız",
+      "sms": "250",
+      "yas_grubu": "Herkes",
+      "kategori": "Standart",
+      "yurtdisi": "0dk",
+      "populer": false,
+      "avantajlar": [
+        "5G"
+      ],
+      "taahhut": 12
+    },
+    {
+      "operator": "Vodafone",
+      "isim": "5G Plus 5GB Tarifesi",
+      "fiyat": 375,
+      "fiyat_mnt": 338,
+      "fiyat_yeni_hat": 319,
+      "internet": "5GB",
+      "dk": "1000",
+      "sms": "250",
+      "yas_grubu": "50+",
+      "kategori": "65+",
+      "yurtdisi": "0dk",
+      "populer": false,
+      "avantajlar": [
+        "5G"
+      ],
+      "taahhut": 12
+    },
+    {
+      "operator": "Vodafone",
+      "isim": "1000 DK + 250 SMS",
+      "fiyat": 375,
+      "fiyat_mnt": 338,
+      "fiyat_yeni_hat": 319,
+      "internet": "5 GB",
+      "dk": "1000",
+      "sms": "250",
+      "yas_grubu": "Herkes",
+      "kategori": "Standart",
+      "yurtdisi": "0dk",
+      "populer": false,
+      "avantajlar": [
+        "5G"
+      ],
+      "taahhut": 12
+    },
+    {
+      "operator": "Vodafone",
+      "isim": "5G Plus 10GB Tarifesi",
+      "fiyat": 450,
+      "fiyat_mnt": 405,
+      "fiyat_yeni_hat": 382,
       "internet": "10GB",
       "dk": "1000",
       "sms": "250",
       "yas_grubu": "Herkes",
       "kategori": "Standart",
-      "yurtdisi": "50dk",
+      "yurtdisi": "0dk",
       "populer": false,
       "avantajlar": [
-        "TV+"
+        "5G"
       ],
       "taahhut": 12
     },
     {
-      "operator": "Turkcell",
-      "isim": "Star 20GB",
-      "fiyat": 900,
-      "fiyat_mnt": 810,
-      "fiyat_yeni_hat": 765,
+      "operator": "Vodafone",
+      "isim": "1000 DK + 250 SMS",
+      "fiyat": 450,
+      "fiyat_mnt": 405,
+      "fiyat_yeni_hat": 382,
+      "internet": "10 GB",
+      "dk": "1000",
+      "sms": "250",
+      "yas_grubu": "Herkes",
+      "kategori": "Standart",
+      "yurtdisi": "0dk",
+      "populer": false,
+      "avantajlar": [
+        "5G"
+      ],
+      "taahhut": 12
+    },
+    {
+      "operator": "Vodafone",
+      "isim": "5G Plus 20GB Tarifesi",
+      "fiyat": 550,
+      "fiyat_mnt": 495,
+      "fiyat_yeni_hat": 468,
       "internet": "20GB",
       "dk": "1000",
       "sms": "250",
       "yas_grubu": "Herkes",
       "kategori": "Standart",
-      "yurtdisi": "100dk",
+      "yurtdisi": "0dk",
+      "populer": false,
+      "avantajlar": [
+        "5G"
+      ],
+      "taahhut": 12
+    },
+    {
+      "operator": "Vodafone",
+      "isim": "1000 DK + 250 SMS",
+      "fiyat": 550,
+      "fiyat_mnt": 495,
+      "fiyat_yeni_hat": 468,
+      "internet": "20 GB",
+      "dk": "1000",
+      "sms": "250",
+      "yas_grubu": "Herkes",
+      "kategori": "Standart",
+      "yurtdisi": "0dk",
+      "populer": false,
+      "avantajlar": [
+        "5G"
+      ],
+      "taahhut": 12
+    },
+    {
+      "operator": "Vodafone",
+      "isim": "5G Plus 30GB Tarifesi",
+      "fiyat": 650,
+      "fiyat_mnt": 585,
+      "fiyat_yeni_hat": 552,
+      "internet": "30GB",
+      "dk": "1000",
+      "sms": "250",
+      "yas_grubu": "50+",
+      "kategori": "65+",
+      "yurtdisi": "0dk",
+      "populer": false,
+      "avantajlar": [
+        "5G"
+      ],
+      "taahhut": 12
+    },
+    {
+      "operator": "Vodafone",
+      "isim": "1000 DK + 250 SMS",
+      "fiyat": 650,
+      "fiyat_mnt": 585,
+      "fiyat_yeni_hat": 552,
+      "internet": "30 GB",
+      "dk": "1000",
+      "sms": "250",
+      "yas_grubu": "50+",
+      "kategori": "65+",
+      "yurtdisi": "0dk",
+      "populer": false,
+      "avantajlar": [
+        "5G"
+      ],
+      "taahhut": 12
+    },
+    {
+      "operator": "Vodafone",
+      "isim": "5G Plus 50GB Tarifesi",
+      "fiyat": 800,
+      "fiyat_mnt": 720,
+      "fiyat_yeni_hat": 680,
+      "internet": "50GB",
+      "dk": "1000",
+      "sms": "250",
+      "yas_grubu": "Herkes",
+      "kategori": "Standart",
+      "yurtdisi": "0dk",
+      "populer": false,
+      "avantajlar": [
+        "5G"
+      ],
+      "taahhut": 12
+    },
+    {
+      "operator": "Vodafone",
+      "isim": "1000 DK + 250 SMS",
+      "fiyat": 800,
+      "fiyat_mnt": 720,
+      "fiyat_yeni_hat": 680,
+      "internet": "50 GB",
+      "dk": "1000",
+      "sms": "250",
+      "yas_grubu": "Herkes",
+      "kategori": "Standart",
+      "yurtdisi": "0dk",
+      "populer": false,
+      "avantajlar": [
+        "5G"
+      ],
+      "taahhut": 12
+    },
+    {
+      "operator": "Vodafone",
+      "isim": "İlk Hattım 5G Plus 5GB Tarifesi",
+      "fiyat": 300,
+      "fiyat_mnt": 270,
+      "fiyat_yeni_hat": 255,
+      "internet": "5GB",
+      "dk": "1000",
+      "sms": "250",
+      "yas_grubu": "Herkes",
+      "kategori": "Standart",
+      "yurtdisi": "0dk",
+      "populer": false,
+      "avantajlar": [
+        "5G"
+      ],
+      "taahhut": 12
+    },
+    {
+      "operator": "Vodafone",
+      "isim": "1000 DK + 250 SMS",
+      "fiyat": 300,
+      "fiyat_mnt": 270,
+      "fiyat_yeni_hat": 255,
+      "internet": "5 GB",
+      "dk": "1000",
+      "sms": "250",
+      "yas_grubu": "Herkes",
+      "kategori": "Standart",
+      "yurtdisi": "0dk",
+      "populer": false,
+      "avantajlar": [
+        "5G"
+      ],
+      "taahhut": 12
+    },
+    {
+      "operator": "Vodafone",
+      "isim": "İlk Hattım 5G Plus 10GB Tarifesi",
+      "fiyat": 350,
+      "fiyat_mnt": 315,
+      "fiyat_yeni_hat": 298,
+      "internet": "10GB",
+      "dk": "1000",
+      "sms": "250",
+      "yas_grubu": "Herkes",
+      "kategori": "Standart",
+      "yurtdisi": "0dk",
+      "populer": false,
+      "avantajlar": [
+        "5G"
+      ],
+      "taahhut": 12
+    },
+    {
+      "operator": "Vodafone",
+      "isim": "1000 DK + 250 SMS",
+      "fiyat": 350,
+      "fiyat_mnt": 315,
+      "fiyat_yeni_hat": 298,
+      "internet": "10 GB",
+      "dk": "1000",
+      "sms": "250",
+      "yas_grubu": "Herkes",
+      "kategori": "Standart",
+      "yurtdisi": "0dk",
+      "populer": false,
+      "avantajlar": [
+        "5G"
+      ],
+      "taahhut": 12
+    },
+    {
+      "operator": "Vodafone",
+      "isim": "İlk Hattım 5G Plus 20GB Tarifesi",
+      "fiyat": 400,
+      "fiyat_mnt": 360,
+      "fiyat_yeni_hat": 340,
+      "internet": "20GB",
+      "dk": "1000",
+      "sms": "250",
+      "yas_grubu": "Herkes",
+      "kategori": "Standart",
+      "yurtdisi": "0dk",
+      "populer": false,
+      "avantajlar": [
+        "5G"
+      ],
+      "taahhut": 12
+    },
+    {
+      "operator": "Vodafone",
+      "isim": "1000 DK + 250 SMS",
+      "fiyat": 400,
+      "fiyat_mnt": 360,
+      "fiyat_yeni_hat": 340,
+      "internet": "20 GB",
+      "dk": "1000",
+      "sms": "250",
+      "yas_grubu": "Herkes",
+      "kategori": "Standart",
+      "yurtdisi": "0dk",
+      "populer": false,
+      "avantajlar": [
+        "5G"
+      ],
+      "taahhut": 12
+    },
+    {
+      "operator": "Vodafone",
+      "isim": "İlk Hattım 5G Plus 30GB Tarifesi",
+      "fiyat": 500,
+      "fiyat_mnt": 450,
+      "fiyat_yeni_hat": 425,
+      "internet": "30GB",
+      "dk": "1000",
+      "sms": "250",
+      "yas_grubu": "Herkes",
+      "kategori": "Standart",
+      "yurtdisi": "0dk",
+      "populer": false,
+      "avantajlar": [
+        "5G"
+      ],
+      "taahhut": 12
+    },
+    {
+      "operator": "Vodafone",
+      "isim": "1000 DK + 250 SMS",
+      "fiyat": 500,
+      "fiyat_mnt": 450,
+      "fiyat_yeni_hat": 425,
+      "internet": "30 GB",
+      "dk": "1000",
+      "sms": "250",
+      "yas_grubu": "Herkes",
+      "kategori": "Standart",
+      "yurtdisi": "0dk",
+      "populer": false,
+      "avantajlar": [
+        "5G"
+      ],
+      "taahhut": 12
+    },
+    {
+      "operator": "Vodafone",
+      "isim": "İlk Hattım 5G Plus 50GB Tarifesi",
+      "fiyat": 600,
+      "fiyat_mnt": 540,
+      "fiyat_yeni_hat": 510,
+      "internet": "50GB",
+      "dk": "1000",
+      "sms": "250",
+      "yas_grubu": "Herkes",
+      "kategori": "Standart",
+      "yurtdisi": "0dk",
+      "populer": false,
+      "avantajlar": [
+        "5G"
+      ],
+      "taahhut": 12
+    },
+    {
+      "operator": "Vodafone",
+      "isim": "1000 DK + 250 SMS",
+      "fiyat": 600,
+      "fiyat_mnt": 540,
+      "fiyat_yeni_hat": 510,
+      "internet": "50 GB",
+      "dk": "1000",
+      "sms": "250",
+      "yas_grubu": "Herkes",
+      "kategori": "Standart",
+      "yurtdisi": "0dk",
+      "populer": false,
+      "avantajlar": [
+        "5G"
+      ],
+      "taahhut": 12
+    },
+    {
+      "operator": "Vodafone",
+      "isim": "5G Plus Genç 10GB Tarifesi",
+      "fiyat": 380,
+      "fiyat_mnt": 342,
+      "fiyat_yeni_hat": 323,
+      "internet": "10GB",
+      "dk": "Sınırsız",
+      "sms": "250",
+      "yas_grubu": "Genç",
+      "kategori": "Genç",
+      "yurtdisi": "0dk",
+      "populer": false,
+      "avantajlar": [
+        "5G"
+      ],
+      "taahhut": 12
+    },
+    {
+      "operator": "Vodafone",
+      "isim": "+ 5 GB",
+      "fiyat": 380,
+      "fiyat_mnt": 342,
+      "fiyat_yeni_hat": 323,
+      "internet": "5 GB",
+      "dk": "Sınırsız",
+      "sms": "250",
+      "yas_grubu": "Herkes",
+      "kategori": "Standart",
+      "yurtdisi": "0dk",
+      "populer": false,
+      "avantajlar": [
+        "5G"
+      ],
+      "taahhut": 12
+    },
+    {
+      "operator": "Vodafone",
+      "isim": "5G Plus Genç 20GB Tarifesi",
+      "fiyat": 480,
+      "fiyat_mnt": 432,
+      "fiyat_yeni_hat": 408,
+      "internet": "20GB",
+      "dk": "Sınırsız",
+      "sms": "250",
+      "yas_grubu": "Genç",
+      "kategori": "Genç",
+      "yurtdisi": "0dk",
+      "populer": false,
+      "avantajlar": [
+        "5G"
+      ],
+      "taahhut": 12
+    },
+    {
+      "operator": "Vodafone",
+      "isim": "+ 10 GB",
+      "fiyat": 480,
+      "fiyat_mnt": 432,
+      "fiyat_yeni_hat": 408,
+      "internet": "10 GB",
+      "dk": "Sınırsız",
+      "sms": "250",
+      "yas_grubu": "Herkes",
+      "kategori": "Standart",
+      "yurtdisi": "0dk",
+      "populer": false,
+      "avantajlar": [
+        "5G"
+      ],
+      "taahhut": 12
+    },
+    {
+      "operator": "Vodafone",
+      "isim": "5G Plus Genç 40GB Tarifesi",
+      "fiyat": 680,
+      "fiyat_mnt": 612,
+      "fiyat_yeni_hat": 578,
+      "internet": "40GB",
+      "dk": "Sınırsız",
+      "sms": "250",
+      "yas_grubu": "Genç",
+      "kategori": "Genç",
+      "yurtdisi": "0dk",
+      "populer": false,
+      "avantajlar": [
+        "5G"
+      ],
+      "taahhut": 12
+    },
+    {
+      "operator": "Vodafone",
+      "isim": "+ 20 GB",
+      "fiyat": 680,
+      "fiyat_mnt": 612,
+      "fiyat_yeni_hat": 578,
+      "internet": "20 GB",
+      "dk": "Sınırsız",
+      "sms": "250",
+      "yas_grubu": "Herkes",
+      "kategori": "Standart",
+      "yurtdisi": "0dk",
+      "populer": false,
+      "avantajlar": [
+        "5G"
+      ],
+      "taahhut": 12
+    },
+    {
+      "operator": "Vodafone",
+      "isim": "5G Plus Genç 60GB Tarifesi",
+      "fiyat": 780,
+      "fiyat_mnt": 702,
+      "fiyat_yeni_hat": 663,
+      "internet": "60GB",
+      "dk": "Sınırsız",
+      "sms": "250",
+      "yas_grubu": "Genç",
+      "kategori": "Genç",
+      "yurtdisi": "0dk",
+      "populer": false,
+      "avantajlar": [
+        "5G"
+      ],
+      "taahhut": 12
+    },
+    {
+      "operator": "Vodafone",
+      "isim": "+ 30 GB",
+      "fiyat": 780,
+      "fiyat_mnt": 702,
+      "fiyat_yeni_hat": 663,
+      "internet": "30 GB",
+      "dk": "Sınırsız",
+      "sms": "250",
+      "yas_grubu": "Herkes",
+      "kategori": "Standart",
+      "yurtdisi": "0dk",
+      "populer": false,
+      "avantajlar": [
+        "5G"
+      ],
+      "taahhut": 12
+    },
+    {
+      "operator": "Vodafone",
+      "isim": "5G Plus Genç 100GB Tarifesi",
+      "fiyat": 880,
+      "fiyat_mnt": 792,
+      "fiyat_yeni_hat": 748,
+      "internet": "100GB",
+      "dk": "Sınırsız",
+      "sms": "250",
+      "yas_grubu": "Genç",
+      "kategori": "Genç",
+      "yurtdisi": "0dk",
+      "populer": false,
+      "avantajlar": [
+        "5G"
+      ],
+      "taahhut": 12
+    },
+    {
+      "operator": "Vodafone",
+      "isim": "+ 50 GB",
+      "fiyat": 880,
+      "fiyat_mnt": 792,
+      "fiyat_yeni_hat": 748,
+      "internet": "50 GB",
+      "dk": "Sınırsız",
+      "sms": "250",
+      "yas_grubu": "Herkes",
+      "kategori": "Standart",
+      "yurtdisi": "0dk",
+      "populer": false,
+      "avantajlar": [
+        "5G"
+      ],
+      "taahhut": 12
+    },
+    {
+      "operator": "Vodafone",
+      "isim": "5G Genç Red 80GB Sinirsiz Sosyal Tarifes",
+      "fiyat": 900,
+      "fiyat_mnt": 810,
+      "fiyat_yeni_hat": 765,
+      "internet": "80GB",
+      "dk": "Sınırsız",
+      "sms": "250",
+      "yas_grubu": "Genç",
+      "kategori": "Genç",
+      "yurtdisi": "0dk",
+      "populer": true,
+      "avantajlar": [
+        "5G"
+      ],
+      "taahhut": 12
+    },
+    {
+      "operator": "Vodafone",
+      "isim": "+ 40 GB",
+      "fiyat": 900,
+      "fiyat_mnt": 810,
+      "fiyat_yeni_hat": 765,
+      "internet": "40 GB",
+      "dk": "Sınırsız",
+      "sms": "250",
+      "yas_grubu": "Herkes",
+      "kategori": "Standart",
+      "yurtdisi": "0dk",
+      "populer": false,
+      "avantajlar": [
+        "5G"
+      ],
+      "taahhut": 12
+    },
+    {
+      "operator": "Vodafone",
+      "isim": "5G Genç Red 120GB Sinirsiz Eglence Tarif",
+      "fiyat": 1000,
+      "fiyat_mnt": 900,
+      "fiyat_yeni_hat": 850,
+      "internet": "120GB",
+      "dk": "Sınırsız",
+      "sms": "250",
+      "yas_grubu": "Genç",
+      "kategori": "Genç",
+      "yurtdisi": "0dk",
+      "populer": true,
+      "avantajlar": [
+        "5G"
+      ],
+      "taahhut": 12
+    },
+    {
+      "operator": "Vodafone",
+      "isim": "+ 60 GB",
+      "fiyat": 1000,
+      "fiyat_mnt": 900,
+      "fiyat_yeni_hat": 850,
+      "internet": "60 GB",
+      "dk": "Sınırsız",
+      "sms": "250",
+      "yas_grubu": "Herkes",
+      "kategori": "Standart",
+      "yurtdisi": "0dk",
+      "populer": false,
+      "avantajlar": [
+        "5G"
+      ],
+      "taahhut": 12
+    },
+    {
+      "operator": "Turkcell",
+      "isim": "5 GB İnternet Paketi",
+      "fiyat": 300,
+      "fiyat_mnt": 270,
+      "fiyat_yeni_hat": 255,
+      "internet": "5 GB",
+      "dk": "1000",
+      "sms": "250",
+      "yas_grubu": "Herkes",
+      "kategori": "Standart",
+      "yurtdisi": "0dk",
       "populer": true,
       "avantajlar": [
         "TV+"
@@ -190,12 +926,876 @@
       "taahhut": 12
     },
     {
-      "operator": "【entity-Turkcell¦canonical_name=Turkcell】",
-      "isim": "GNÇ Avantaj 10+10GB",
-      "fiyat": 320,
-      "fiyat_mnt": 288,
-      "fiyat_yeni_hat": 272,
+      "operator": "Turkcell",
+      "isim": "5G GÜCÜNDE İNTERNET",
+      "fiyat": 300,
+      "fiyat_mnt": 270,
+      "fiyat_yeni_hat": 255,
+      "internet": "5\n\nGB",
+      "dk": "1000",
+      "sms": "250",
+      "yas_grubu": "Herkes",
+      "kategori": "Standart",
+      "yurtdisi": "0dk",
+      "populer": true,
+      "avantajlar": [
+        "TV+"
+      ],
+      "taahhut": 12
+    },
+    {
+      "operator": "Turkcell",
+      "isim": "Star+ 1",
+      "fiyat": 500,
+      "fiyat_mnt": 450,
+      "fiyat_yeni_hat": 425,
+      "internet": "1\n\nGB",
+      "dk": "1000",
+      "sms": "250",
+      "yas_grubu": "Herkes",
+      "kategori": "Standart",
+      "yurtdisi": "0dk",
+      "populer": true,
+      "avantajlar": [
+        "TV+"
+      ],
+      "taahhut": 12
+    },
+    {
+      "operator": "Turkcell",
+      "isim": "15 GB İnternet Paketi",
+      "fiyat": 600,
+      "fiyat_mnt": 540,
+      "fiyat_yeni_hat": 510,
+      "internet": "15 GB",
+      "dk": "1000",
+      "sms": "250",
+      "yas_grubu": "Herkes",
+      "kategori": "Standart",
+      "yurtdisi": "0dk",
+      "populer": true,
+      "avantajlar": [
+        "TV+"
+      ],
+      "taahhut": 12
+    },
+    {
+      "operator": "Turkcell",
+      "isim": "5G GÜCÜNDE İNTERNET",
+      "fiyat": 600,
+      "fiyat_mnt": 540,
+      "fiyat_yeni_hat": 510,
+      "internet": "15\n\nGB",
+      "dk": "1000",
+      "sms": "250",
+      "yas_grubu": "Herkes",
+      "kategori": "Standart",
+      "yurtdisi": "0dk",
+      "populer": true,
+      "avantajlar": [
+        "TV+"
+      ],
+      "taahhut": 12
+    },
+    {
+      "operator": "Turkcell",
+      "isim": "Star+ 5",
+      "fiyat": 700,
+      "fiyat_mnt": 630,
+      "fiyat_yeni_hat": 595,
+      "internet": "5\n\nGB",
+      "dk": "1000",
+      "sms": "250",
+      "yas_grubu": "Herkes",
+      "kategori": "Standart",
+      "yurtdisi": "0dk",
+      "populer": true,
+      "avantajlar": [
+        "TV+"
+      ],
+      "taahhut": 12
+    },
+    {
+      "operator": "Turkcell",
+      "isim": "Star+ 10",
+      "fiyat": 800,
+      "fiyat_mnt": 720,
+      "fiyat_yeni_hat": 680,
+      "internet": "10\n\nGB",
+      "dk": "1000",
+      "sms": "250",
+      "yas_grubu": "Herkes",
+      "kategori": "Standart",
+      "yurtdisi": "0dk",
+      "populer": true,
+      "avantajlar": [
+        "TV+"
+      ],
+      "taahhut": 12
+    },
+    {
+      "operator": "Turkcell",
+      "isim": "Star+ 30",
+      "fiyat": 200,
+      "fiyat_mnt": 180,
+      "fiyat_yeni_hat": 170,
+      "internet": "30\n\nGB",
+      "dk": "1000",
+      "sms": "250",
+      "yas_grubu": "Herkes",
+      "kategori": "Standart",
+      "yurtdisi": "0dk",
+      "populer": true,
+      "avantajlar": [
+        "TV+"
+      ],
+      "taahhut": 12
+    },
+    {
+      "operator": "Turkcell",
+      "isim": "50 GB İnternet Paketi",
+      "fiyat": 400,
+      "fiyat_mnt": 360,
+      "fiyat_yeni_hat": 340,
+      "internet": "50 GB",
+      "dk": "1000",
+      "sms": "250",
+      "yas_grubu": "Herkes",
+      "kategori": "Standart",
+      "yurtdisi": "0dk",
+      "populer": true,
+      "avantajlar": [
+        "TV+"
+      ],
+      "taahhut": 12
+    },
+    {
+      "operator": "Turkcell",
+      "isim": "5G GÜCÜNDE İNTERNET",
+      "fiyat": 400,
+      "fiyat_mnt": 360,
+      "fiyat_yeni_hat": 340,
+      "internet": "50\n\nGB",
+      "dk": "1000",
+      "sms": "250",
+      "yas_grubu": "Herkes",
+      "kategori": "Standart",
+      "yurtdisi": "0dk",
+      "populer": true,
+      "avantajlar": [
+        "TV+"
+      ],
+      "taahhut": 12
+    },
+    {
+      "operator": "Turkcell",
+      "isim": "Bireysel Standart İnternet Tarifesi",
+      "fiyat": 150,
+      "fiyat_mnt": 135,
+      "fiyat_yeni_hat": 128,
+      "internet": "2\n\nGB",
+      "dk": "1000",
+      "sms": "250",
+      "yas_grubu": "Herkes",
+      "kategori": "Standart",
+      "yurtdisi": "0dk",
+      "populer": true,
+      "avantajlar": [
+        "TV+"
+      ],
+      "taahhut": 12
+    },
+    {
+      "operator": "Turkcell",
+      "isim": "5G GÜCÜNDE İNTERNET",
+      "fiyat": 150,
+      "fiyat_mnt": 135,
+      "fiyat_yeni_hat": 128,
+      "internet": "2\n\nGB",
+      "dk": "1000",
+      "sms": "250",
+      "yas_grubu": "Herkes",
+      "kategori": "Standart",
+      "yurtdisi": "0dk",
+      "populer": true,
+      "avantajlar": [
+        "TV+"
+      ],
+      "taahhut": 12
+    },
+    {
+      "operator": "Turkcell",
+      "isim": "Superbox Ek 20 GB",
+      "fiyat": 150,
+      "fiyat_mnt": 135,
+      "fiyat_yeni_hat": 128,
+      "internet": "20 GB",
+      "dk": "1000",
+      "sms": "250",
+      "yas_grubu": "Herkes",
+      "kategori": "Standart",
+      "yurtdisi": "0dk",
+      "populer": true,
+      "avantajlar": [
+        "TV+"
+      ],
+      "taahhut": 12
+    },
+    {
+      "operator": "Turkcell",
+      "isim": "Superbox İlinde Ek 50 GB",
+      "fiyat": 300,
+      "fiyat_mnt": 270,
+      "fiyat_yeni_hat": 255,
+      "internet": "50 GB",
+      "dk": "1000",
+      "sms": "250",
+      "yas_grubu": "Herkes",
+      "kategori": "Standart",
+      "yurtdisi": "0dk",
+      "populer": true,
+      "avantajlar": [
+        "TV+"
+      ],
+      "taahhut": 12
+    },
+    {
+      "operator": "Turkcell",
+      "isim": "Superbox Ek 50 GB",
+      "fiyat": 300,
+      "fiyat_mnt": 270,
+      "fiyat_yeni_hat": 255,
+      "internet": "50 GB",
+      "dk": "1000",
+      "sms": "250",
+      "yas_grubu": "Herkes",
+      "kategori": "Standart",
+      "yurtdisi": "0dk",
+      "populer": true,
+      "avantajlar": [
+        "TV+"
+      ],
+      "taahhut": 12
+    },
+    {
+      "operator": "Turkcell",
+      "isim": "Turkcell Mobil Wifi 20 GB Paketi",
+      "fiyat": 415,
+      "fiyat_mnt": 374,
+      "fiyat_yeni_hat": 353,
+      "internet": "20 GB",
+      "dk": "1000",
+      "sms": "250",
+      "yas_grubu": "Herkes",
+      "kategori": "Standart",
+      "yurtdisi": "0dk",
+      "populer": true,
+      "avantajlar": [
+        "TV+"
+      ],
+      "taahhut": 12
+    },
+    {
+      "operator": "Turkcell",
+      "isim": "5G GÜCÜNDE İNTERNET",
+      "fiyat": 415,
+      "fiyat_mnt": 374,
+      "fiyat_yeni_hat": 353,
+      "internet": "20\n\nGB",
+      "dk": "1000",
+      "sms": "250",
+      "yas_grubu": "Herkes",
+      "kategori": "Standart",
+      "yurtdisi": "0dk",
+      "populer": true,
+      "avantajlar": [
+        "TV+"
+      ],
+      "taahhut": 12
+    },
+    {
+      "operator": "Turkcell",
+      "isim": "5G+ Yayıncı",
+      "fiyat": 500,
+      "fiyat_mnt": 450,
+      "fiyat_yeni_hat": 425,
+      "internet": "5\n\nGB",
+      "dk": "1000",
+      "sms": "250",
+      "yas_grubu": "Herkes",
+      "kategori": "Standart",
+      "yurtdisi": "0dk",
+      "populer": true,
+      "avantajlar": [
+        "TV+"
+      ],
+      "taahhut": 12
+    },
+    {
+      "operator": "Turkcell",
+      "isim": "Superbox Ek 100 GB",
+      "fiyat": 500,
+      "fiyat_mnt": 450,
+      "fiyat_yeni_hat": 425,
+      "internet": "100 GB",
+      "dk": "1000",
+      "sms": "250",
+      "yas_grubu": "Herkes",
+      "kategori": "Standart",
+      "yurtdisi": "0dk",
+      "populer": true,
+      "avantajlar": [
+        "TV+"
+      ],
+      "taahhut": 12
+    },
+    {
+      "operator": "Turkcell",
+      "isim": "5G GÜCÜNDE İNTERNET",
+      "fiyat": 500,
+      "fiyat_mnt": 450,
+      "fiyat_yeni_hat": 425,
+      "internet": "100\n\nGB",
+      "dk": "1000",
+      "sms": "250",
+      "yas_grubu": "Herkes",
+      "kategori": "Standart",
+      "yurtdisi": "0dk",
+      "populer": true,
+      "avantajlar": [
+        "TV+"
+      ],
+      "taahhut": 12
+    },
+    {
+      "operator": "Turkcell",
+      "isim": "Turkcell Mobil Wifi 50 GB Paketi",
+      "fiyat": 535,
+      "fiyat_mnt": 482,
+      "fiyat_yeni_hat": 455,
+      "internet": "50 GB",
+      "dk": "1000",
+      "sms": "250",
+      "yas_grubu": "Herkes",
+      "kategori": "Standart",
+      "yurtdisi": "0dk",
+      "populer": true,
+      "avantajlar": [
+        "TV+"
+      ],
+      "taahhut": 12
+    },
+    {
+      "operator": "Turkcell",
+      "isim": "5G GÜCÜNDE İNTERNET",
+      "fiyat": 535,
+      "fiyat_mnt": 482,
+      "fiyat_yeni_hat": 455,
+      "internet": "50\n\nGB",
+      "dk": "1000",
+      "sms": "250",
+      "yas_grubu": "Herkes",
+      "kategori": "Standart",
+      "yurtdisi": "0dk",
+      "populer": true,
+      "avantajlar": [
+        "TV+"
+      ],
+      "taahhut": 12
+    },
+    {
+      "operator": "Turkcell",
+      "isim": "Turkcell Mobil Wifi 100 GB Paketi",
+      "fiyat": 635,
+      "fiyat_mnt": 572,
+      "fiyat_yeni_hat": 540,
+      "internet": "100 GB",
+      "dk": "1000",
+      "sms": "250",
+      "yas_grubu": "Herkes",
+      "kategori": "Standart",
+      "yurtdisi": "0dk",
+      "populer": true,
+      "avantajlar": [
+        "TV+"
+      ],
+      "taahhut": 12
+    },
+    {
+      "operator": "Turkcell",
+      "isim": "5G GÜCÜNDE İNTERNET",
+      "fiyat": 635,
+      "fiyat_mnt": 572,
+      "fiyat_yeni_hat": 540,
+      "internet": "100\n\nGB",
+      "dk": "1000",
+      "sms": "250",
+      "yas_grubu": "Herkes",
+      "kategori": "Standart",
+      "yurtdisi": "0dk",
+      "populer": true,
+      "avantajlar": [
+        "TV+"
+      ],
+      "taahhut": 12
+    },
+    {
+      "operator": "Turkcell",
+      "isim": "Superbox Ek 200 GB",
+      "fiyat": 800,
+      "fiyat_mnt": 720,
+      "fiyat_yeni_hat": 680,
+      "internet": "200 GB",
+      "dk": "1000",
+      "sms": "250",
+      "yas_grubu": "Herkes",
+      "kategori": "Standart",
+      "yurtdisi": "0dk",
+      "populer": true,
+      "avantajlar": [
+        "TV+"
+      ],
+      "taahhut": 12
+    },
+    {
+      "operator": "Turkcell",
+      "isim": "5G GÜCÜNDE İNTERNET",
+      "fiyat": 800,
+      "fiyat_mnt": 720,
+      "fiyat_yeni_hat": 680,
+      "internet": "200\n\nGB",
+      "dk": "1000",
+      "sms": "250",
+      "yas_grubu": "Herkes",
+      "kategori": "Standart",
+      "yurtdisi": "0dk",
+      "populer": true,
+      "avantajlar": [
+        "TV+"
+      ],
+      "taahhut": 12
+    },
+    {
+      "operator": "Turkcell",
+      "isim": "Turkcell Mobil Wifi 200 GB Paketi",
+      "fiyat": 815,
+      "fiyat_mnt": 734,
+      "fiyat_yeni_hat": 693,
+      "internet": "200 GB",
+      "dk": "1000",
+      "sms": "250",
+      "yas_grubu": "Herkes",
+      "kategori": "Standart",
+      "yurtdisi": "0dk",
+      "populer": true,
+      "avantajlar": [
+        "TV+"
+      ],
+      "taahhut": 12
+    },
+    {
+      "operator": "Turkcell",
+      "isim": "5G GÜCÜNDE İNTERNET",
+      "fiyat": 815,
+      "fiyat_mnt": 734,
+      "fiyat_yeni_hat": 693,
+      "internet": "200\n\nGB",
+      "dk": "1000",
+      "sms": "250",
+      "yas_grubu": "Herkes",
+      "kategori": "Standart",
+      "yurtdisi": "0dk",
+      "populer": true,
+      "avantajlar": [
+        "TV+"
+      ],
+      "taahhut": 12
+    },
+    {
+      "operator": "Turkcell",
+      "isim": "Turkcell Mobil Wifi 400 GB Paketi",
+      "fiyat": 400,
+      "fiyat_mnt": 360,
+      "fiyat_yeni_hat": 340,
+      "internet": "400 GB",
+      "dk": "1000",
+      "sms": "250",
+      "yas_grubu": "Herkes",
+      "kategori": "Standart",
+      "yurtdisi": "0dk",
+      "populer": true,
+      "avantajlar": [
+        "TV+"
+      ],
+      "taahhut": 12
+    },
+    {
+      "operator": "Turkcell",
+      "isim": "Platinum+ 50 GB",
+      "fiyat": 400,
+      "fiyat_mnt": 360,
+      "fiyat_yeni_hat": 340,
+      "internet": "50 GB",
+      "dk": "1000",
+      "sms": "250",
+      "yas_grubu": "Herkes",
+      "kategori": "Standart",
+      "yurtdisi": "0dk",
+      "populer": true,
+      "avantajlar": [
+        "TV+"
+      ],
+      "taahhut": 12
+    },
+    {
+      "operator": "Turkcell",
+      "isim": "Platinum+ 60 GB",
+      "fiyat": 600,
+      "fiyat_mnt": 540,
+      "fiyat_yeni_hat": 510,
+      "internet": "60 GB",
+      "dk": "1000",
+      "sms": "250",
+      "yas_grubu": "Herkes",
+      "kategori": "Standart",
+      "yurtdisi": "0dk",
+      "populer": true,
+      "avantajlar": [
+        "TV+"
+      ],
+      "taahhut": 12
+    },
+    {
+      "operator": "Turkcell",
+      "isim": "Turkcell Mobil Wifi 600 GB Paketi",
+      "fiyat": 800,
+      "fiyat_mnt": 720,
+      "fiyat_yeni_hat": 680,
+      "internet": "600 GB",
+      "dk": "1000",
+      "sms": "250",
+      "yas_grubu": "Herkes",
+      "kategori": "Standart",
+      "yurtdisi": "0dk",
+      "populer": true,
+      "avantajlar": [
+        "TV+"
+      ],
+      "taahhut": 12
+    },
+    {
+      "operator": "Turkcell",
+      "isim": "Platinum+ Black 120 GB",
+      "fiyat": 400,
+      "fiyat_mnt": 360,
+      "fiyat_yeni_hat": 340,
+      "internet": "120 GB",
+      "dk": "1000",
+      "sms": "250",
+      "yas_grubu": "Herkes",
+      "kategori": "Standart",
+      "yurtdisi": "0dk",
+      "populer": true,
+      "avantajlar": [
+        "TV+"
+      ],
+      "taahhut": 12
+    },
+    {
+      "operator": "Turkcell",
+      "isim": "Platinum+ Black 160 GB",
+      "fiyat": 700,
+      "fiyat_mnt": 630,
+      "fiyat_yeni_hat": 595,
+      "internet": "160 GB",
+      "dk": "1000",
+      "sms": "250",
+      "yas_grubu": "Herkes",
+      "kategori": "Standart",
+      "yurtdisi": "0dk",
+      "populer": true,
+      "avantajlar": [
+        "TV+"
+      ],
+      "taahhut": 12
+    },
+    {
+      "operator": "Turkcell",
+      "isim": "Yıllık - Dev Star 120 GB",
+      "fiyat": 600,
+      "fiyat_mnt": 540,
+      "fiyat_yeni_hat": 510,
+      "internet": "120 GB",
+      "dk": "1000",
+      "sms": "250",
+      "yas_grubu": "Herkes",
+      "kategori": "Standart",
+      "yurtdisi": "0dk",
+      "populer": true,
+      "avantajlar": [
+        "TV+"
+      ],
+      "taahhut": 12
+    },
+    {
+      "operator": "Turkcell",
+      "isim": "Yıllık - Dev Star 240 GB",
+      "fiyat": 800,
+      "fiyat_mnt": 720,
+      "fiyat_yeni_hat": 680,
+      "internet": "240 GB",
+      "dk": "1000",
+      "sms": "250",
+      "yas_grubu": "Herkes",
+      "kategori": "Standart",
+      "yurtdisi": "0dk",
+      "populer": true,
+      "avantajlar": [
+        "TV+"
+      ],
+      "taahhut": 12
+    },
+    {
+      "operator": "Turkcell",
+      "isim": "Turkcell Ailem Ortak Paket 50 GB",
+      "fiyat": 500,
+      "fiyat_mnt": 450,
+      "fiyat_yeni_hat": 425,
+      "internet": "50 GB",
+      "dk": "1000",
+      "sms": "250",
+      "yas_grubu": "Herkes",
+      "kategori": "Standart",
+      "yurtdisi": "0dk",
+      "populer": true,
+      "avantajlar": [
+        "TV+"
+      ],
+      "taahhut": 12
+    },
+    {
+      "operator": "Turkcell",
+      "isim": "Turkcell Ailem Ortak Paket 100 GB",
+      "fiyat": 900,
+      "fiyat_mnt": 810,
+      "fiyat_yeni_hat": 765,
+      "internet": "100 GB",
+      "dk": "1000",
+      "sms": "250",
+      "yas_grubu": "Herkes",
+      "kategori": "Standart",
+      "yurtdisi": "0dk",
+      "populer": true,
+      "avantajlar": [
+        "TV+"
+      ],
+      "taahhut": 12
+    },
+    {
+      "operator": "Turkcell",
+      "isim": "5G GÜCÜNDE İNTERNET",
+      "fiyat": 900,
+      "fiyat_mnt": 810,
+      "fiyat_yeni_hat": 765,
+      "internet": "100\n\nGB",
+      "dk": "1000",
+      "sms": "250",
+      "yas_grubu": "Herkes",
+      "kategori": "Standart",
+      "yurtdisi": "0dk",
+      "populer": true,
+      "avantajlar": [
+        "TV+"
+      ],
+      "taahhut": 12
+    },
+    {
+      "operator": "Turkcell",
+      "isim": "5G+ Oyuncu Paketi",
+      "fiyat": 500,
+      "fiyat_mnt": 450,
+      "fiyat_yeni_hat": 425,
       "internet": "20GB",
+      "dk": "1000",
+      "sms": "250",
+      "yas_grubu": "Herkes",
+      "kategori": "Standart",
+      "yurtdisi": "0dk",
+      "populer": true,
+      "avantajlar": [
+        "TV+"
+      ],
+      "taahhut": 12
+    },
+    {
+      "operator": "Turkcell",
+      "isim": "500 TL/1 AY",
+      "fiyat": 500,
+      "fiyat_mnt": 450,
+      "fiyat_yeni_hat": 425,
+      "internet": "20GB",
+      "dk": "1000",
+      "sms": "250",
+      "yas_grubu": "Herkes",
+      "kategori": "Standart",
+      "yurtdisi": "0dk",
+      "populer": true,
+      "avantajlar": [
+        "TV+"
+      ],
+      "taahhut": 12
+    },
+    {
+      "operator": "Turkcell",
+      "isim": "Esneyen Paket",
+      "fiyat": 430,
+      "fiyat_mnt": 387,
+      "fiyat_yeni_hat": 366,
+      "internet": "5\n\nGB",
+      "dk": "1000",
+      "sms": "250",
+      "yas_grubu": "Herkes",
+      "kategori": "Standart",
+      "yurtdisi": "0dk",
+      "populer": true,
+      "avantajlar": [
+        "TV+"
+      ],
+      "taahhut": 12
+    },
+    {
+      "operator": "Turkcell",
+      "isim": "Oyna İzle Paketi",
+      "fiyat": 160,
+      "fiyat_mnt": 144,
+      "fiyat_yeni_hat": 136,
+      "internet": "5\n\nGB",
+      "dk": "1000",
+      "sms": "250",
+      "yas_grubu": "Herkes",
+      "kategori": "Standart",
+      "yurtdisi": "0dk",
+      "populer": true,
+      "avantajlar": [
+        "TV+"
+      ],
+      "taahhut": 12
+    },
+    {
+      "operator": "Turkcell",
+      "isim": "SOSYAL MEDYA",
+      "fiyat": 160,
+      "fiyat_mnt": 144,
+      "fiyat_yeni_hat": 136,
+      "internet": "5\n\nGB",
+      "dk": "1000",
+      "sms": "250",
+      "yas_grubu": "Herkes",
+      "kategori": "Standart",
+      "yurtdisi": "0dk",
+      "populer": true,
+      "avantajlar": [
+        "TV+"
+      ],
+      "taahhut": 12
+    },
+    {
+      "operator": "Turkcell",
+      "isim": "Oyna İzle Plus",
+      "fiyat": 245,
+      "fiyat_mnt": 220,
+      "fiyat_yeni_hat": 208,
+      "internet": "10\n\nGB",
+      "dk": "1000",
+      "sms": "250",
+      "yas_grubu": "Herkes",
+      "kategori": "Standart",
+      "yurtdisi": "0dk",
+      "populer": true,
+      "avantajlar": [
+        "TV+"
+      ],
+      "taahhut": 12
+    },
+    {
+      "operator": "Turkcell",
+      "isim": "SOSYAL MEDYA",
+      "fiyat": 245,
+      "fiyat_mnt": 220,
+      "fiyat_yeni_hat": 208,
+      "internet": "10\n\nGB",
+      "dk": "1000",
+      "sms": "250",
+      "yas_grubu": "Herkes",
+      "kategori": "Standart",
+      "yurtdisi": "0dk",
+      "populer": true,
+      "avantajlar": [
+        "TV+"
+      ],
+      "taahhut": 12
+    },
+    {
+      "operator": "Turkcell",
+      "isim": "Mega Oyna İzle Paketi",
+      "fiyat": 380,
+      "fiyat_mnt": 342,
+      "fiyat_yeni_hat": 323,
+      "internet": "20\n\nGB",
+      "dk": "1000",
+      "sms": "250",
+      "yas_grubu": "Herkes",
+      "kategori": "Standart",
+      "yurtdisi": "0dk",
+      "populer": true,
+      "avantajlar": [
+        "TV+"
+      ],
+      "taahhut": 12
+    },
+    {
+      "operator": "Turkcell",
+      "isim": "SOSYAL MEDYA",
+      "fiyat": 380,
+      "fiyat_mnt": 342,
+      "fiyat_yeni_hat": 323,
+      "internet": "20\n\nGB",
+      "dk": "1000",
+      "sms": "250",
+      "yas_grubu": "Herkes",
+      "kategori": "Standart",
+      "yurtdisi": "0dk",
+      "populer": true,
+      "avantajlar": [
+        "TV+"
+      ],
+      "taahhut": 12
+    },
+    {
+      "operator": "Turkcell",
+      "isim": "GNÇ+ 10 GB",
+      "fiyat": 650,
+      "fiyat_mnt": 585,
+      "fiyat_yeni_hat": 552,
+      "internet": "10 GB",
+      "dk": "1000",
+      "sms": "250",
+      "yas_grubu": "Genç",
+      "kategori": "65+",
+      "yurtdisi": "0dk",
+      "populer": true,
+      "avantajlar": [
+        "TV+"
+      ],
+      "taahhut": 12
+    },
+    {
+      "operator": "Turkcell",
+      "isim": "GNÇ+ 30 GB",
+      "fiyat": 950,
+      "fiyat_mnt": 855,
+      "fiyat_yeni_hat": 808,
+      "internet": "30 GB",
       "dk": "1000",
       "sms": "250",
       "yas_grubu": "Genç",
@@ -203,79 +1803,223 @@
       "yurtdisi": "0dk",
       "populer": true,
       "avantajlar": [
-        "Instagram sınırsız"
+        "TV+"
       ],
       "taahhut": 12
     },
     {
       "operator": "Turkcell",
-      "isim": "GNÇ Avantaj 20+20GB",
-      "fiyat": 450,
-      "fiyat_mnt": 405,
-      "fiyat_yeni_hat": 383,
-      "internet": "40GB",
+      "isim": "GNÇ+ 50 GB",
+      "fiyat": 300,
+      "fiyat_mnt": 270,
+      "fiyat_yeni_hat": 255,
+      "internet": "50 GB",
       "dk": "1000",
       "sms": "250",
       "yas_grubu": "Genç",
       "kategori": "Genç",
-      "yurtdisi": "50dk",
+      "yurtdisi": "0dk",
       "populer": true,
       "avantajlar": [
-        "YouTube Sınırsız"
+        "TV+"
       ],
       "taahhut": 12
     },
     {
-      "operator": "Türk Telekom",
-      "isim": "Prime 20GB",
-      "fiyat": 360,
-      "fiyat_mnt": 324,
-      "fiyat_yeni_hat": 306,
-      "internet": "20GB",
+      "operator": "Turkcell",
+      "isim": "Prestij 5 GB",
+      "fiyat": 440,
+      "fiyat_mnt": 396,
+      "fiyat_yeni_hat": 374,
+      "internet": "5 GB",
       "dk": "1000",
       "sms": "250",
       "yas_grubu": "Herkes",
       "kategori": "Standart",
-      "yurtdisi": "100dk",
+      "yurtdisi": "0dk",
       "populer": true,
       "avantajlar": [
-        "Prime"
+        "TV+"
       ],
       "taahhut": 12
     },
     {
-      "operator": "Türk Telekom",
-      "isim": "Prime 30GB",
-      "fiyat": 450,
-      "fiyat_mnt": 405,
-      "fiyat_yeni_hat": 383,
-      "internet": "30GB",
-      "dk": "2000",
-      "sms": "500",
+      "operator": "Turkcell",
+      "isim": "Prestij 10 GB",
+      "fiyat": 540,
+      "fiyat_mnt": 486,
+      "fiyat_yeni_hat": 459,
+      "internet": "10 GB",
+      "dk": "1000",
+      "sms": "250",
       "yas_grubu": "Herkes",
       "kategori": "Standart",
-      "yurtdisi": "100dk",
+      "yurtdisi": "0dk",
       "populer": true,
       "avantajlar": [
-        "E-dergi"
+        "TV+"
       ],
       "taahhut": 12
     },
     {
-      "operator": "Türk Telekom",
-      "isim": "Selfy 15GB Genç",
-      "fiyat": 275,
-      "fiyat_mnt": 248,
-      "fiyat_yeni_hat": 234,
-      "internet": "15GB",
+      "operator": "Turkcell",
+      "isim": "Prestij 20 GB",
+      "fiyat": 660,
+      "fiyat_mnt": 594,
+      "fiyat_yeni_hat": 561,
+      "internet": "20 GB",
       "dk": "1000",
-      "sms": "500",
-      "yas_grubu": "Genç",
-      "kategori": "Genç",
-      "yurtdisi": "50dk",
+      "sms": "250",
+      "yas_grubu": "Herkes",
+      "kategori": "Standart",
+      "yurtdisi": "0dk",
       "populer": true,
       "avantajlar": [
-        "Selfy"
+        "TV+"
+      ],
+      "taahhut": 12
+    },
+    {
+      "operator": "Turkcell",
+      "isim": "Prestij 30 GB",
+      "fiyat": 780,
+      "fiyat_mnt": 702,
+      "fiyat_yeni_hat": 663,
+      "internet": "30 GB",
+      "dk": "1000",
+      "sms": "250",
+      "yas_grubu": "Herkes",
+      "kategori": "Standart",
+      "yurtdisi": "0dk",
+      "populer": true,
+      "avantajlar": [
+        "TV+"
+      ],
+      "taahhut": 12
+    },
+    {
+      "operator": "Turkcell",
+      "isim": "Prestij 40 GB",
+      "fiyat": 900,
+      "fiyat_mnt": 810,
+      "fiyat_yeni_hat": 765,
+      "internet": "40 GB",
+      "dk": "1000",
+      "sms": "250",
+      "yas_grubu": "Herkes",
+      "kategori": "Standart",
+      "yurtdisi": "0dk",
+      "populer": true,
+      "avantajlar": [
+        "TV+"
+      ],
+      "taahhut": 12
+    },
+    {
+      "operator": "Turkcell",
+      "isim": "Platinum Prestij 80 GB",
+      "fiyat": 200,
+      "fiyat_mnt": 180,
+      "fiyat_yeni_hat": 170,
+      "internet": "80 GB",
+      "dk": "1000",
+      "sms": "250",
+      "yas_grubu": "Herkes",
+      "kategori": "Standart",
+      "yurtdisi": "0dk",
+      "populer": true,
+      "avantajlar": [
+        "TV+"
+      ],
+      "taahhut": 12
+    },
+    {
+      "operator": "Turkcell",
+      "isim": "Platinum Prestij 120 GB",
+      "fiyat": 500,
+      "fiyat_mnt": 450,
+      "fiyat_yeni_hat": 425,
+      "internet": "120 GB",
+      "dk": "1000",
+      "sms": "250",
+      "yas_grubu": "Herkes",
+      "kategori": "Standart",
+      "yurtdisi": "0dk",
+      "populer": true,
+      "avantajlar": [
+        "TV+"
+      ],
+      "taahhut": 12
+    },
+    {
+      "operator": "Turkcell",
+      "isim": "Yeni Hotspot 5 GB",
+      "fiyat": 250,
+      "fiyat_mnt": 225,
+      "fiyat_yeni_hat": 212,
+      "internet": "5 GB",
+      "dk": "1000",
+      "sms": "250",
+      "yas_grubu": "Herkes",
+      "kategori": "Standart",
+      "yurtdisi": "0dk",
+      "populer": true,
+      "avantajlar": [
+        "TV+"
+      ],
+      "taahhut": 12
+    },
+    {
+      "operator": "Turkcell",
+      "isim": "Yeni Hotspot 10 GB",
+      "fiyat": 400,
+      "fiyat_mnt": 360,
+      "fiyat_yeni_hat": 340,
+      "internet": "10 GB",
+      "dk": "1000",
+      "sms": "250",
+      "yas_grubu": "Herkes",
+      "kategori": "Standart",
+      "yurtdisi": "0dk",
+      "populer": true,
+      "avantajlar": [
+        "TV+"
+      ],
+      "taahhut": 12
+    },
+    {
+      "operator": "Turkcell",
+      "isim": "Yeni Hotspot 25 GB",
+      "fiyat": 500,
+      "fiyat_mnt": 450,
+      "fiyat_yeni_hat": 425,
+      "internet": "25 GB",
+      "dk": "1000",
+      "sms": "250",
+      "yas_grubu": "Herkes",
+      "kategori": "Standart",
+      "yurtdisi": "0dk",
+      "populer": true,
+      "avantajlar": [
+        "TV+"
+      ],
+      "taahhut": 12
+    },
+    {
+      "operator": "Turkcell",
+      "isim": "Yeni Hotspot 50 GB",
+      "fiyat": 600,
+      "fiyat_mnt": 540,
+      "fiyat_yeni_hat": 510,
+      "internet": "50 GB",
+      "dk": "1000",
+      "sms": "250",
+      "yas_grubu": "Herkes",
+      "kategori": "Standart",
+      "yurtdisi": "0dk",
+      "populer": true,
+      "avantajlar": [
+        "TV+"
       ],
       "taahhut": 12
     }
