@@ -1,5 +1,5 @@
 {
-  "guncelleme": "21.10.2026 07:48",
+  "guncelleme": "22.10.2026 03:19",
   "toplam_tarife": 112,
   "kaynaklar": [
     "https://www.vodafone.com.tr/numara-tasima-yeni-hat/tarifeler/new/postpaid/ALL",
@@ -477,186 +477,6 @@
     },
     {
       "operator": "Vodafone",
-      "isim": "İlk Hattım 5G Plus 5GB Tarifesi",
-      "fiyat": 300,
-      "fiyat_mnt": 270,
-      "fiyat_yeni_hat": 255,
-      "internet": "5GB",
-      "dk": "1000",
-      "sms": "250",
-      "yas_grubu": "Herkes",
-      "kategori": "Standart",
-      "yurtdisi": "0dk",
-      "populer": false,
-      "avantajlar": [
-        "5G"
-      ],
-      "taahhut": 12
-    },
-    {
-      "operator": "Vodafone",
-      "isim": "1000 DK + 250 SMS",
-      "fiyat": 300,
-      "fiyat_mnt": 270,
-      "fiyat_yeni_hat": 255,
-      "internet": "5 GB",
-      "dk": "1000",
-      "sms": "250",
-      "yas_grubu": "Herkes",
-      "kategori": "Standart",
-      "yurtdisi": "0dk",
-      "populer": false,
-      "avantajlar": [
-        "5G"
-      ],
-      "taahhut": 12
-    },
-    {
-      "operator": "Vodafone",
-      "isim": "İlk Hattım 5G Plus 10GB Tarifesi",
-      "fiyat": 350,
-      "fiyat_mnt": 315,
-      "fiyat_yeni_hat": 298,
-      "internet": "10GB",
-      "dk": "1000",
-      "sms": "250",
-      "yas_grubu": "Herkes",
-      "kategori": "Standart",
-      "yurtdisi": "0dk",
-      "populer": false,
-      "avantajlar": [
-        "5G"
-      ],
-      "taahhut": 12
-    },
-    {
-      "operator": "Vodafone",
-      "isim": "1000 DK + 250 SMS",
-      "fiyat": 350,
-      "fiyat_mnt": 315,
-      "fiyat_yeni_hat": 298,
-      "internet": "10 GB",
-      "dk": "1000",
-      "sms": "250",
-      "yas_grubu": "Herkes",
-      "kategori": "Standart",
-      "yurtdisi": "0dk",
-      "populer": false,
-      "avantajlar": [
-        "5G"
-      ],
-      "taahhut": 12
-    },
-    {
-      "operator": "Vodafone",
-      "isim": "İlk Hattım 5G Plus 20GB Tarifesi",
-      "fiyat": 400,
-      "fiyat_mnt": 360,
-      "fiyat_yeni_hat": 340,
-      "internet": "20GB",
-      "dk": "1000",
-      "sms": "250",
-      "yas_grubu": "Herkes",
-      "kategori": "Standart",
-      "yurtdisi": "0dk",
-      "populer": false,
-      "avantajlar": [
-        "5G"
-      ],
-      "taahhut": 12
-    },
-    {
-      "operator": "Vodafone",
-      "isim": "1000 DK + 250 SMS",
-      "fiyat": 400,
-      "fiyat_mnt": 360,
-      "fiyat_yeni_hat": 340,
-      "internet": "20 GB",
-      "dk": "1000",
-      "sms": "250",
-      "yas_grubu": "Herkes",
-      "kategori": "Standart",
-      "yurtdisi": "0dk",
-      "populer": false,
-      "avantajlar": [
-        "5G"
-      ],
-      "taahhut": 12
-    },
-    {
-      "operator": "Vodafone",
-      "isim": "İlk Hattım 5G Plus 30GB Tarifesi",
-      "fiyat": 500,
-      "fiyat_mnt": 450,
-      "fiyat_yeni_hat": 425,
-      "internet": "30GB",
-      "dk": "1000",
-      "sms": "250",
-      "yas_grubu": "Herkes",
-      "kategori": "Standart",
-      "yurtdisi": "0dk",
-      "populer": false,
-      "avantajlar": [
-        "5G"
-      ],
-      "taahhut": 12
-    },
-    {
-      "operator": "Vodafone",
-      "isim": "1000 DK + 250 SMS",
-      "fiyat": 500,
-      "fiyat_mnt": 450,
-      "fiyat_yeni_hat": 425,
-      "internet": "30 GB",
-      "dk": "1000",
-      "sms": "250",
-      "yas_grubu": "Herkes",
-      "kategori": "Standart",
-      "yurtdisi": "0dk",
-      "populer": false,
-      "avantajlar": [
-        "5G"
-      ],
-      "taahhut": 12
-    },
-    {
-      "operator": "Vodafone",
-      "isim": "İlk Hattım 5G Plus 50GB Tarifesi",
-      "fiyat": 600,
-      "fiyat_mnt": 540,
-      "fiyat_yeni_hat": 510,
-      "internet": "50GB",
-      "dk": "1000",
-      "sms": "250",
-      "yas_grubu": "Herkes",
-      "kategori": "Standart",
-      "yurtdisi": "0dk",
-      "populer": false,
-      "avantajlar": [
-        "5G"
-      ],
-      "taahhut": 12
-    },
-    {
-      "operator": "Vodafone",
-      "isim": "1000 DK + 250 SMS",
-      "fiyat": 600,
-      "fiyat_mnt": 540,
-      "fiyat_yeni_hat": 510,
-      "internet": "50 GB",
-      "dk": "1000",
-      "sms": "250",
-      "yas_grubu": "Herkes",
-      "kategori": "Standart",
-      "yurtdisi": "0dk",
-      "populer": false,
-      "avantajlar": [
-        "5G"
-      ],
-      "taahhut": 12
-    },
-    {
-      "operator": "Vodafone",
       "isim": "5G Plus Genç 10GB Tarifesi",
       "fiyat": 380,
       "fiyat_mnt": 342,
@@ -897,6 +717,186 @@
       "fiyat_yeni_hat": 850,
       "internet": "60 GB",
       "dk": "Sınırsız",
+      "sms": "250",
+      "yas_grubu": "Herkes",
+      "kategori": "Standart",
+      "yurtdisi": "0dk",
+      "populer": false,
+      "avantajlar": [
+        "5G"
+      ],
+      "taahhut": 12
+    },
+    {
+      "operator": "Vodafone",
+      "isim": "İlk Hattım 5G Plus 5GB Tarifesi",
+      "fiyat": 300,
+      "fiyat_mnt": 270,
+      "fiyat_yeni_hat": 255,
+      "internet": "5GB",
+      "dk": "1000",
+      "sms": "250",
+      "yas_grubu": "Herkes",
+      "kategori": "Standart",
+      "yurtdisi": "0dk",
+      "populer": false,
+      "avantajlar": [
+        "5G"
+      ],
+      "taahhut": 12
+    },
+    {
+      "operator": "Vodafone",
+      "isim": "1000 DK + 250 SMS",
+      "fiyat": 300,
+      "fiyat_mnt": 270,
+      "fiyat_yeni_hat": 255,
+      "internet": "5 GB",
+      "dk": "1000",
+      "sms": "250",
+      "yas_grubu": "Herkes",
+      "kategori": "Standart",
+      "yurtdisi": "0dk",
+      "populer": false,
+      "avantajlar": [
+        "5G"
+      ],
+      "taahhut": 12
+    },
+    {
+      "operator": "Vodafone",
+      "isim": "İlk Hattım 5G Plus 10GB Tarifesi",
+      "fiyat": 350,
+      "fiyat_mnt": 315,
+      "fiyat_yeni_hat": 298,
+      "internet": "10GB",
+      "dk": "1000",
+      "sms": "250",
+      "yas_grubu": "Herkes",
+      "kategori": "Standart",
+      "yurtdisi": "0dk",
+      "populer": false,
+      "avantajlar": [
+        "5G"
+      ],
+      "taahhut": 12
+    },
+    {
+      "operator": "Vodafone",
+      "isim": "1000 DK + 250 SMS",
+      "fiyat": 350,
+      "fiyat_mnt": 315,
+      "fiyat_yeni_hat": 298,
+      "internet": "10 GB",
+      "dk": "1000",
+      "sms": "250",
+      "yas_grubu": "Herkes",
+      "kategori": "Standart",
+      "yurtdisi": "0dk",
+      "populer": false,
+      "avantajlar": [
+        "5G"
+      ],
+      "taahhut": 12
+    },
+    {
+      "operator": "Vodafone",
+      "isim": "İlk Hattım 5G Plus 20GB Tarifesi",
+      "fiyat": 400,
+      "fiyat_mnt": 360,
+      "fiyat_yeni_hat": 340,
+      "internet": "20GB",
+      "dk": "1000",
+      "sms": "250",
+      "yas_grubu": "Herkes",
+      "kategori": "Standart",
+      "yurtdisi": "0dk",
+      "populer": false,
+      "avantajlar": [
+        "5G"
+      ],
+      "taahhut": 12
+    },
+    {
+      "operator": "Vodafone",
+      "isim": "1000 DK + 250 SMS",
+      "fiyat": 400,
+      "fiyat_mnt": 360,
+      "fiyat_yeni_hat": 340,
+      "internet": "20 GB",
+      "dk": "1000",
+      "sms": "250",
+      "yas_grubu": "Herkes",
+      "kategori": "Standart",
+      "yurtdisi": "0dk",
+      "populer": false,
+      "avantajlar": [
+        "5G"
+      ],
+      "taahhut": 12
+    },
+    {
+      "operator": "Vodafone",
+      "isim": "İlk Hattım 5G Plus 30GB Tarifesi",
+      "fiyat": 500,
+      "fiyat_mnt": 450,
+      "fiyat_yeni_hat": 425,
+      "internet": "30GB",
+      "dk": "1000",
+      "sms": "250",
+      "yas_grubu": "Herkes",
+      "kategori": "Standart",
+      "yurtdisi": "0dk",
+      "populer": false,
+      "avantajlar": [
+        "5G"
+      ],
+      "taahhut": 12
+    },
+    {
+      "operator": "Vodafone",
+      "isim": "1000 DK + 250 SMS",
+      "fiyat": 500,
+      "fiyat_mnt": 450,
+      "fiyat_yeni_hat": 425,
+      "internet": "30 GB",
+      "dk": "1000",
+      "sms": "250",
+      "yas_grubu": "Herkes",
+      "kategori": "Standart",
+      "yurtdisi": "0dk",
+      "populer": false,
+      "avantajlar": [
+        "5G"
+      ],
+      "taahhut": 12
+    },
+    {
+      "operator": "Vodafone",
+      "isim": "İlk Hattım 5G Plus 50GB Tarifesi",
+      "fiyat": 600,
+      "fiyat_mnt": 540,
+      "fiyat_yeni_hat": 510,
+      "internet": "50GB",
+      "dk": "1000",
+      "sms": "250",
+      "yas_grubu": "Herkes",
+      "kategori": "Standart",
+      "yurtdisi": "0dk",
+      "populer": false,
+      "avantajlar": [
+        "5G"
+      ],
+      "taahhut": 12
+    },
+    {
+      "operator": "Vodafone",
+      "isim": "1000 DK + 250 SMS",
+      "fiyat": 600,
+      "fiyat_mnt": 540,
+      "fiyat_yeni_hat": 510,
+      "internet": "50 GB",
+      "dk": "1000",
       "sms": "250",
       "yas_grubu": "Herkes",
       "kategori": "Standart",
